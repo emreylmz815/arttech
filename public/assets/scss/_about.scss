@@ -2,6 +2,7 @@
 /*  05. ABOUT CSS START
 /*----------------------------------------*/
 
+
 .about{
     &__area{
 
@@ -44,8 +45,17 @@
     &__shape{
         position: absolute;
         top: 100px;
-        left: -27px;
+        left: -42px;
         z-index: -1;
+        animation: identifier 2s ease-in 0s infinite alternate both;
+
+    }
+    &__icon{
+        position: absolute;
+        top: 200px;
+        left: 330px;
+        z-index: -1;
+        animation: icon 2s ease-in 0s infinite alternate both;
     }
     &__content{
         position: relative;
@@ -106,3 +116,19 @@
         }
     }
 }
+ @keyframes identifier {
+            0%{
+                transform: translateX(0);
+            }
+            100%{
+                transform: translateX(150px);
+            }
+        }
+ @keyframes icon {
+            0%{
+                transform: translateX(150px);
+            }
+            100%{
+                transform: translateX(0);
+            }
+        }

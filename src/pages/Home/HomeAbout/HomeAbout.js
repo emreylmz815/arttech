@@ -11,8 +11,11 @@ const HomeAbout = () => {
                   <div className="col-xl-6 pr-0 col-lg-6">
                      <div className="about__thumb m-img">
                         <img src="assets/img/about/about-1.jpg" alt=""/>
-                           <div className="about__shape">
-                              <img src="assets/img/about/red-shape.png" alt=""/>
+                           <div className="about__shape ">
+                              <img  src="assets/img/about/camera1.svg" alt=""/>
+                           </div>
+                           <div className="about__icon ">
+                              <img  src="assets/img/about/camera2.svg" alt=""/>
                            </div>
                      </div>
                   </div>

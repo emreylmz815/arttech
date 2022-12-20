@@ -79,14 +79,7 @@ const homeServicesData=[
         baslık:1,
         text:1,
     },
-    {
-        id:11,
-        title:"Araç Altı Görüntüleme Sistemleri",
-        icon:1,
-        img:1,
-        baslık:1,
-        text:1,
-    },
+    
     {
         id:12,
         title:"Hemşire Çağrı Sistemleri",
@@ -97,7 +90,7 @@ const homeServicesData=[
     },
     {
         id:13,
-        title:"Yazılım Sistemleri",
+        title:"Yazılım Çözümleri",
         icon:1,
         img:1,
         baslık:1,

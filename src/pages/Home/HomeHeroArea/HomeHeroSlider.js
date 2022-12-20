@@ -44,7 +44,7 @@ const HomeHeroArea = () => {
                            <img className="shape triangle" src="assets/img/icon/slider/shield.png" alt="triangle" />
                            <img className="shape dotted-square" src="assets/img/icon/slider/smart-home.png" alt="dotted-square" />
                            <img className="shape solid-square" src="assets/img/icon/slider/camera.png" alt="solid-square" />
-                           <img className="shape circle" src="assets/img/icon/slider/circle.png" alt="circle" />
+                           <img className="shape circle-2" src="assets/img/icon/slider/1234.png" alt="circle" />
                         </div>
                         <div className="container h1_slider_wrapper">
                            <div className="row">

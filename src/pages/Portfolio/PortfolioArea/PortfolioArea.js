@@ -4,7 +4,7 @@ import SinglePortfolio from '../../../components/SinglePortfolio/SinglePortfolio
 import data from '../../../data/portfolioData';
 
 // all category
-const allCategory = ['see all',...new Set(data.map(category => category.category))]
+const allCategory = ['Tümü',...new Set(data.map(category => category.category))]
 // array unique items
 const arr = data;
 const uniqueItem = arr.filter((arr, index, self) =>
@@ -12,14 +12,14 @@ const uniqueItem = arr.filter((arr, index, self) =>
 
 const PortfolioArea = () => {
    // active btn
-   const [active,setActive] = useState('see all');
+   const [active,setActive] = useState('Tümü');
    const [filterPortfolio, setFilterPortfolio] = useState(uniqueItem);
-   const [values,setValues] = useState(4);
+   const [values,setValues] = useState(24);
 
    // filtering portfolio data
    const filterCategory = (category) => {
       setActive(category)
-      if(category === 'see all'){
+      if(category === 'Tümü'){
          return setFilterPortfolio(uniqueItem)
       }
       const remainingItems = data.filter((item) => item.category === category);
@@ -27,7 +27,7 @@ const PortfolioArea = () => {
    }
    // handleLoadMore
    const handleLoadMore = () => {
-      setValues((value) => value + 1)
+      setValues((value) => value + 4)
    }
    return (
       <>
@@ -36,7 +36,7 @@ const PortfolioArea = () => {
                <div className="row">
                   <div className="col-xl-12">
                      <div className="portfolio__menu mb-40">
-                        <span>Filter by: </span>
+                        <span>Filte: </span>
                         <div className="masonary-menu filter-button-group d-sm-inline-block">
                            {
                               allCategory.map((btn,index) => {
@@ -60,7 +60,7 @@ const PortfolioArea = () => {
                   <div className="col-xl-2">
                      <div className="portfolio__load mt-25" onClick={handleLoadMore}>
                         <button className="z-btn z-btn-border">
-                           <i><AiOutlineReload/></i> Load more</button>
+                            Daha Fazla</button>
                      </div>
                   </div>
                </div>}
