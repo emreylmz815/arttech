@@ -4,6 +4,7 @@ import VideoPopup from '../../../components/VideoPopup/VideoPopup';
 import useGlobalContext from '../../../hooks/useGlobalContext';
 import { FiPlay } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
+import Gradient from 'rgt'
 
 const HomeHeroArea = () => {
    const { setIsVideoOpen} = useGlobalContext();
@@ -13,10 +14,10 @@ const HomeHeroArea = () => {
          id:1,
          bgImg:'home_slider_1',
       },
-      {
-         id: 2,
-         bgImg:'home_slider_2',
-      },
+      // {
+      //    id: 2,
+      //    bgImg:'home_slider_2',
+      // },
    ]
    // slick setting
    const settings = {
@@ -50,11 +51,14 @@ const HomeHeroArea = () => {
                            <div className="row">
                               <div className="col-xl-9 col-lg-9 col-md-10 col-sm-10">
                                  <div className="slider__content">
-                                    <span>GÜVENLİK İÇİN ARTTECH</span>
-                                    <h1>SANAT İLE <br /> TEKONOLOJİNİN BULUŞMA NOKTASI</h1>
-                                    <div className="slider__btn">
+                                   
+                                    <h1><span className='slider__span boujee-text'>SANAT İLE TEKONOLOJİNİN  BULUŞMA NOKTASI</span></h1>
+                                    {/* <h1> 
+                                       <Gradient dir="top-to-bottom" from="#d6d0d0" to="#4a4541">SANAT İLE TEKONOLOJİNİN <br /> BULUŞMA NOKTASI </Gradient>
+                                    </h1> */}
+                                    {/* <div className="slider__btn">
                                        <Link to="/contact" className="z-btn z-btn-transparent">Çözümlerimiz</Link>
-                                    </div>
+                                    </div> */}
                                  </div>
                               </div>
                               

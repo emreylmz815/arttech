@@ -678,17 +678,9 @@ const portfolioData = [
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
         works:[
-            "İnformation"]
+            "Hırsız Alarm Sistemleri"]
     },
-    {
-        id: 59,
-        img: 'assets/img/portfolio/port-7.jpg',
-        title: 'Al Alüminyum',
-        subtitle: ' ',
-        category: 'Güvenlik Sistemleri',
-        works:[
-            "Profesyonel Kamera Sistemleri ","Yangın Alarm Sistemleri","Hırsız Alarm Sistemleri","IP Santral Çözümleri","Network Çözümleri","Personel Takip Sistemleri","Turnike Sistemleri","Acil Anons Sistemleri","Profesyonel Ses Sistemleri"]
-    },
+    
 ]
 
 export default portfolioData;
