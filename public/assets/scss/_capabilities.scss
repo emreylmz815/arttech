@@ -34,6 +34,12 @@
         left: 0;
         top: -165px;
     }
+    &__shape2{
+        left: 0;
+        transform:rotateX(180deg); 
+       bottom: -118px;
+
+    }
     &__list{
         & ol{
             & li{

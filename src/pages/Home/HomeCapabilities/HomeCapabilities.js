@@ -32,6 +32,9 @@ const HomeCapabilities = () => {
                   </div>
                </div>
             </div>
+            <div className="capabilities__shape2 p-absolute wow fadeInLeft" >
+               <img  src="assets/img/capabilities/capabilities-shape.png" alt="shape"/>
+            </div>
          </section>
       </>
    );
