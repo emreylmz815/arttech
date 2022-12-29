@@ -2,7 +2,7 @@
 const portfolioData = [
     {
         id:1,
-        img:'assets/img/portfolio/port-2.jpg',
+        img:'assets/img/portfolio/duzce-osb.jpg',
         title:'Düzce OSB',
         subtitle:'',
         category:'Güvenlik Sistemleri',
@@ -13,7 +13,7 @@ const portfolioData = [
     },
     {
         id:2,
-        img:'assets/img/portfolio/port-2.jpg',
+        img:'assets/img/portfolio/gerede-osb.jpg',
         title:'Gerede OSB',
         subtitle:' ',
         category:'Güvenlik Sistemleri',
@@ -22,7 +22,7 @@ const portfolioData = [
     },
     {
         id:3,
-        img:'assets/img/portfolio/port-3.jpg',
+        img:'assets/img/portfolio/duu.jpg',
         title: 'Düzce Üniversitesi',
         subtitle:' ',
         category: 'Güvenlik Sistemleri',
@@ -31,7 +31,7 @@ const portfolioData = [
     },
     {
         id:4,
-        img:'assets/img/portfolio/port-4.jpg',
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
         title: 'Kuşcuoğlu İnşaat',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -40,7 +40,7 @@ const portfolioData = [
     },
     {
         id:5,
-        img:'assets/img/portfolio/port-5.jpg',
+        img:'assets/img/portfolio/sarkon-yatırım-müh.jpg',
         title: 'Sarkon Yatırım Mühendislik',
         subtitle:' ',
         category:'Akıllı Ev',
@@ -48,7 +48,7 @@ const portfolioData = [
     },
     {
         id:6,
-        img:'assets/img/portfolio/port-6.jpg',
+        img:'assets/img/portfolio/sivrikaya.jpg',
         title: 'Sivrikaya Yapı',
         subtitle:' ',
         category:'Akıllı Ev',
@@ -56,7 +56,7 @@ const portfolioData = [
     },
     {
         id:7,
-        img:'assets/img/portfolio/port-7.jpg',
+        img:'assets/img/portfolio/bw-ulusoy.jpg',
         title: 'BW Ulusoy İnşaat',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -64,7 +64,7 @@ const portfolioData = [
     },
     {
         id:8,
-        img:'assets/img/portfolio/port-8.jpg',
+        img:'assets/img/portfolio/mekatro.jpg',
         title: 'Mekatro Mühendislik',
         subtitle:'',
         category:'Akıllı Ev',
@@ -72,7 +72,7 @@ const portfolioData = [
     },
     {
         id: 9,
-        img: 'assets/img/portfolio/port-3.jpg',
+        img: 'assets/img/portfolio/allı-turna.jpg',
         title: 'Allıturna Yapı',
         subtitle: ' ',
         category: 'Akıllı Ev',
@@ -81,7 +81,7 @@ const portfolioData = [
     },
     {
         id: 10,
-        img: 'assets/img/portfolio/port-5.jpg',
+        img: 'assets/img/portfolio/kent-inşaat.jpg',
         title: 'Kent İnşaat',
         subtitle: ' ',
         category: 'Akıllı Ev',
@@ -89,7 +89,7 @@ const portfolioData = [
     },
     {
         id: 11,
-        img: 'assets/img/portfolio/port-5.jpg',
+        img: 'assets/img/portfolio/coşkun-yapı-inşaat.jpg',
         title: 'Coşkun Yapı İnşaat',
         subtitle: ' ',
         category: 'Akıllı Ev',
@@ -97,7 +97,7 @@ const portfolioData = [
     },
     {
         id: 12,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/beykoy-kgys.jpg',
         title: 'Beyköy Jandarma',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -115,7 +115,7 @@ const portfolioData = [
     },
     {
         id: 14,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/kaynaşlı-kgys.jpg',
         title: 'Kaynaşlı KGYS',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -124,7 +124,7 @@ const portfolioData = [
     },
     {
         id: 15,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/anlaş.jpg',
         title: 'Anlaş Lastik AŞ',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -133,7 +133,7 @@ const portfolioData = [
     },
     {
         id: 16,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/dekostil-mobilya.jpg',
         title: 'Dekostil Mobilya',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -142,7 +142,7 @@ const portfolioData = [
     },
     {
         id: 17,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/titsan.jpg',
         title: 'Tisan Mühendislik',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -151,7 +151,7 @@ const portfolioData = [
     },
     {
         id: 18,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/pastacı.jpg',
         title: 'Pastacı Bistro',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -160,7 +160,7 @@ const portfolioData = [
     },
     {
         id: 19,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/aden.jpg',
         title: 'Aden Boutique Hotel & Spa',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -169,7 +169,7 @@ const portfolioData = [
     },
     {
         id: 20,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/teknopark-düzce.jpg',
         title: 'Düzce Teknopark',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -178,7 +178,7 @@ const portfolioData = [
     },
     {
         id: 21,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/düzce-adalet-sarayı.jpg',
         title: 'Düzce Adalet Sarayı',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -187,7 +187,7 @@ const portfolioData = [
     },
     {
         id: 22,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/abant-yeşil-ev.jpg',
         title: 'Abant Yeşil Ev',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -196,7 +196,7 @@ const portfolioData = [
     },
     {
         id: 23,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/dabateks.jpg',
         title: 'Debateks Tekstil',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -205,7 +205,7 @@ const portfolioData = [
     },
     {
         id: 24,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/gölyaka-devlet-hastanesi.jpg',
         title: 'Gölyaka Devlet Hastanesi',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -214,7 +214,7 @@ const portfolioData = [
     },
     {
         id: 25,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/teksen-koleji.jpg',
         title: 'Teksen Koleji',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -223,7 +223,7 @@ const portfolioData = [
     },
     {
         id: 26,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/yagmur-traktör.jpg',
         title: 'Yağmur Traktör',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -232,7 +232,7 @@ const portfolioData = [
     },
     {
         id: 27,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/funny-gıda.jpg',
         title: 'Funny Gıda',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -241,7 +241,7 @@ const portfolioData = [
     },
     {
         id: 28,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/düzce-cam.jpg',
         title: 'Düzce Cam AŞ',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -250,7 +250,7 @@ const portfolioData = [
     },
     {
         id: 29,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/realkom.jpg',
         title: 'Realkom',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -259,7 +259,7 @@ const portfolioData = [
     },
     {
         id: 30,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/propak.jpg',
         title: 'Propak',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -268,7 +268,7 @@ const portfolioData = [
     },
     {
         id: 31,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/mate.jpg',
         title: 'Mate Drink & Dessert',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -277,7 +277,7 @@ const portfolioData = [
     },
     {
         id: 32,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/son-adım-geri-dönüşüm.jpg',
         title: 'Son Adım Geri DÖnüşüm San. ve Tic. Ltd. Şti.',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -286,7 +286,7 @@ const portfolioData = [
     },
     {
         id: 33,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/next-plastik.jpg',
         title: 'Next Plastik Kauçuk San. ve Tic. A.Ş.',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -295,7 +295,7 @@ const portfolioData = [
     },
     {
         id: 34,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/lazpresso.jpg',
         title: 'Lazpresso Coffee',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -304,7 +304,7 @@ const portfolioData = [
     },
     {
         id: 35,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/envio.jpg',
         title: 'Envio Enerji Üretim A.Ş.',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -313,7 +313,7 @@ const portfolioData = [
     },
     {
         id: 36,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/esmak.jpg',
         title: 'Esmak',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -322,7 +322,7 @@ const portfolioData = [
     },
     {
         id: 37,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/nobel-ilaç.jpg',
         title: 'Nobel İlaç',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -331,7 +331,7 @@ const portfolioData = [
     },
     {
         id: 38,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/ahmet-yiğit-ağır-nakliyat.jpg',
         title: 'Ahmet Yiğit Ağır Nakliyat',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -340,7 +340,7 @@ const portfolioData = [
     },
     {
         id: 39,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/mt-plastik.jpg',
         title: 'M&T Plastik A.Ş',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -349,7 +349,7 @@ const portfolioData = [
     },
     {
         id: 40,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/standard.jpg',
         title: 'Standard Profil',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -358,7 +358,7 @@ const portfolioData = [
     },
     {
         id: 41,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/izmit-simge-petrol.jpg',
         title: 'İzmit Simge Petrol',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -367,7 +367,7 @@ const portfolioData = [
     },
     {
         id: 42,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/rami-özel-hastanesi.jpg',
         title: 'Rami Özen Hastanesi',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -376,7 +376,7 @@ const portfolioData = [
     },
     {
         id: 43,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/karaman-döküm.jpg',
         title: 'Karaman Döküm',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -385,7 +385,7 @@ const portfolioData = [
     },
     {
         id: 44,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/namık-kemal-iöo.jpg',
         title: 'Namık Kemal İlköğretim Okulu',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -394,7 +394,7 @@ const portfolioData = [
     },
     {
         id: 45,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/düzce-engelsiz-yaşam.jpg',
         title: 'Düzce Engelsiz Yaşam Merkezi',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -403,7 +403,7 @@ const portfolioData = [
     },
     {
         id: 46,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/ugur-okulları.jpg',
         title: 'Uğur Okulları',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -412,7 +412,7 @@ const portfolioData = [
     },
     {
         id: 47,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/aytav.jpg',
         title: 'Aytav Tavukçuluk',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -421,7 +421,7 @@ const portfolioData = [
     },
     {
         id: 48,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/gropalli.jpg',
         title: 'Groppalli',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -430,7 +430,7 @@ const portfolioData = [
     },
     {
         id: 49,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/kasabın-mutfağı.jpg',
         title: 'Kasabın Mutfağı',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -439,7 +439,7 @@ const portfolioData = [
     },
     {
         id: 50,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/akın-ziraat.jpg',
         title: 'Akın Ziraat',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -448,7 +448,7 @@ const portfolioData = [
     },
     {
         id: 51,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/yigitler-beton.jpg',
         title: 'Yiğitler Beton',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -457,7 +457,7 @@ const portfolioData = [
     },
     {
         id: 52,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/al-alimünyum.jpg',
         title: 'Al Alüminyum',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -466,7 +466,7 @@ const portfolioData = [
     },
     {
         id: 53,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/alkan-group.jpg',
         title: 'Alkan Group',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -475,7 +475,7 @@ const portfolioData = [
     },
     {
         id: 54,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/arın-ormn-ürünleri.jpg',
         title: 'Arın Orman Ürünleri',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -484,7 +484,7 @@ const portfolioData = [
     },
     {
         id: 55,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/altan-kuyumculuk.jpg',
         title: 'Altan Kuyumculuk',
         subtitle: ' ',
         category: 'Akıllı Ev',
@@ -493,7 +493,7 @@ const portfolioData = [
     },
     {
         id: 56,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/bry-boya.jpg',
         title: 'BRY Boya',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -502,7 +502,7 @@ const portfolioData = [
     },
     {
         id: 57,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/bağdatlılar-çerez.jpg',
         title: 'Bağdatlılar Çerez',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -511,7 +511,7 @@ const portfolioData = [
     },
     {
         id: 58,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/başarı-eğitim.jpg',
         title: 'Başarı Eğitim Kurumları',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -520,7 +520,7 @@ const portfolioData = [
     },
     {
         id: 59,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/allegion.jpg',
         title: 'Allegion',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -529,7 +529,7 @@ const portfolioData = [
     },
     {
         id: 60,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/dabateks.jpg',
         title: 'Debateks',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -538,7 +538,7 @@ const portfolioData = [
     },
     {
         id: 61,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/burger-king.jpg',
         title: 'Burger King',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -547,7 +547,7 @@ const portfolioData = [
     },
     {
         id: 62,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/düzce-özel-il-idaresi.jpg',
         title: 'Düzce Özel İl İdaresi',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -556,7 +556,7 @@ const portfolioData = [
     },
     {
         id: 63,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/go-petrol.jpg',
         title: 'GO Petrol',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -565,7 +565,7 @@ const portfolioData = [
     },
     {
         id: 64,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/filli-boya.jpg',
         title: 'Filli Boya',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -574,7 +574,7 @@ const portfolioData = [
     },
     {
         id: 65,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/halavet.jpg',
         title: 'Halavet',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -583,7 +583,7 @@ const portfolioData = [
     },
     {
         id: 66,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/ito-kilit.jpg',
         title: 'İTO Kilit',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -592,7 +592,7 @@ const portfolioData = [
     },
     {
         id: 67,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/lucky-brosk.jpg',
         title: 'Lucky Bros',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -601,7 +601,7 @@ const portfolioData = [
     },
     {
         id: 68,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/kps.jpg',
         title: 'KPS',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -610,7 +610,7 @@ const portfolioData = [
     },
     {
         id: 69,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/mersin-agır-nakliyat.jpg',
         title: 'Mersin Ağır Nakliyat',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -619,7 +619,7 @@ const portfolioData = [
     },
     {
         id: 70,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/teb.jpg',
         title: 'TEB',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -628,7 +628,7 @@ const portfolioData = [
     },
     {
         id: 71,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/deniz-bank-düzce.jpg',
         title: 'Denizbank',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -637,7 +637,7 @@ const portfolioData = [
     },
     {
         id: 72,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/toyota.jpg',
         title: 'Toyota',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',

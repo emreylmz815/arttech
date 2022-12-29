@@ -27,7 +27,7 @@ const PortfolioArea = () => {
    }
    // handleLoadMore
    const handleLoadMore = () => {
-      setValues((value) => value + 4)
+      setValues((value) => value + 12)
    }
    return (
       <>

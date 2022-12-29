@@ -1,9 +1,11 @@
 import React from 'react';
 import HomeSingleFeature from '../../../components/HomeSingleFeature/HomeSingleFeature';
-import { FiBook, FiLock} from 'react-icons/fi';
+import { BiNetworkChart} from 'react-icons/bi';
+import { AiFillFire} from 'react-icons/ai';
 import { FaLightbulb, FaRibbon } from 'react-icons/fa';
-import { BsHouseDoor } from 'react-icons/bs';
+import { BsFillHouseFill,BsFillFilePersonFill,BsCameraVideo,BsHddNetworkFill } from 'react-icons/bs';
 import { IoDocumentTextOutline } from 'react-icons/io5';
+import { GiBarrier } from 'react-icons/gi';
 
 const HomeFeatures = () => {
    return (
@@ -13,12 +15,12 @@ const HomeFeatures = () => {
                <div className="features__inner fix">
                   <div className="row g-0 ">
 
-                     <HomeSingleFeature icon={<FiBook />} title="Akıllı Ev Sistemleri" />
-                     <HomeSingleFeature icon={<FaLightbulb />} title="Kamera Güvenlik Sistemleri" />
-                     <HomeSingleFeature icon={<BsHouseDoor />} title="Personel Takip Sistemleri" />
-                     <HomeSingleFeature icon={<IoDocumentTextOutline />} title="Yangın Sistemleri" />
-                     <HomeSingleFeature icon={<FiLock />} title="Hırsız Alarm Sistemleri" />
-                     <HomeSingleFeature icon={<FaRibbon />} title="Bariyer Sistemleri" />
+                     <HomeSingleFeature icon={<BsFillHouseFill />} title="Akıllı Ev Sistemleri" />
+                     <HomeSingleFeature icon={<BsCameraVideo />} title="Profesyonel Kamera Güvenlik Sistemleri" />
+                     <HomeSingleFeature icon={<BsFillFilePersonFill />} title="Personel Takip Sistemleri" />
+                     <HomeSingleFeature icon={<AiFillFire />} title="Yangın Algılama ve Hırsız Alarm Sistemleri" />
+                     <HomeSingleFeature icon={<BiNetworkChart />} title="Network - Yazılım - KVKK Çözümleri " />
+                     <HomeSingleFeature icon={<GiBarrier />} title="Kontrollü Geçiş Sistemleri" />
 
                   </div>
                </div>

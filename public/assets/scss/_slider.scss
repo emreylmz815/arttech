@@ -72,7 +72,22 @@
             }
         }
     }
-
+    &__span{
+        font-weight: 900;
+        font-family: Montserrat;
+    }
+    &__span2{
+    font-weight: 300;
+}
+&__guvenlik{
+    position: absolute;
+    bottom: -270px;
+    left: 50px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: #484544;
+    font-size:45px ;
+}
      
     &__height{
         min-height: 850px;
@@ -237,6 +252,25 @@
     &__shape{
         & img{
             position: absolute;
+            &.fire{
+                right: 30%;
+                bottom: 15%;
+              
+                animation: fire 5s linear 0s infinite alternate;
+                -webkit-animation: fire 5s linear 0s infinite alternate;
+            }
+            &.cctv{
+                right: 15%;
+                bottom:70%;
+                animation: cctv 5s linear 0s infinite alternate;
+                -webkit-animation: cctv 5s linear 0s infinite alternate;
+            }
+            &.network{
+                right: 10%;
+                bottom:45%;
+                animation: network 5s linear 0s infinite alternate;
+                -webkit-animation: network 5s linear 0s infinite alternate;
+            }
             &.triangle{
                 right: 28%;
                 bottom: 38%;
@@ -249,13 +283,7 @@
                 animation: dottedSquare 8s linear 0s infinite alternate;
                 -webkit-animation: dottedSquare 8s linear 0s infinite alternate;
             }
-            &.solid-square{
-                bottom: 19%;
-                right: 25%;
-                z-index: 1;
-                animation: solidsquare 5s linear 0s infinite alternate;
-                -webkit-animation: solidsquare 5s linear 0s infinite alternate;
-            }
+            
             &.circle{
                 right: 10%;
                 bottom: -47%;
@@ -279,8 +307,55 @@
 }
 
 /* slider shapw keyframe */
+@keyframes fire{
+    0%{
+        transform: translateX(0px);
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(-100px);
+        -ms-transform: translateX(-100px);
+        -o-transform: translateX(-100px);
+      }
+      100%{
+        transform: translateX(0px);
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -ms-transform: translateX(0px);
+        -o-transform: translateX(0px);
+      }
+}
+@keyframes cctv{
+    0%{
+        transform: translateX(0px);
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(-100px);
+        -ms-transform: translateX(-100px);
+        -o-transform: translateX(-100px);
+      }
+      100%{
+        transform: translateX(0px);
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -ms-transform: translateX(0px);
+        -o-transform: translateX(0px);
+      }
+}
 
-
+@keyframes network{
+    0%{
+        transform: translateY(0px);
+        -webkit-transform: translatey(0px);
+        -moz-transform: translateY(-100px);
+        -ms-transform: translateY(-100px);
+        -o-transform: translateY(-100px);
+      }
+      100%{
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+        -moz-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        -o-transform: translateY(0px);
+      }
+}
 @keyframes triangle{
     0%{
       transform: translateY(-100px);

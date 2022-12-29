@@ -4,12 +4,12 @@ import SingleBrandItem from "../../../components/SingleBrandItem/SingleBrandItem
 const HomeBrands = () => {
    // slick setting
    const settings = {
-      autoplay: false,
-      autoplaySpeed: 10000,
+      autoplay: true,
+      autoplaySpeed: 1000,
       dots: false,
       arrows: false,
       slidesToShow: 4,
-      slidesToScroll: 1,
+      slidesToScroll: 4,
       responsive: [
          {
             breakpoint: 1024,
@@ -68,7 +68,12 @@ const HomeBrands = () => {
                      <SingleBrandItem img_1="2" img_2="6" />
                      <SingleBrandItem img_1="3" img_2="7" />
                      <SingleBrandItem img_1="4" img_2="8" />
-                     <SingleBrandItem img_1="2" img_2="6" />
+                     <SingleBrandItem img_1="9" img_2="10" />
+                     <SingleBrandItem img_1="11" img_2="12" />
+                     <SingleBrandItem img_1="13" img_2="14" />
+                     <SingleBrandItem img_1="15" img_2="16" />
+                     <SingleBrandItem img_1="17" img_2="18" /> 
+                     
                   </Slider>
 
                </div>
