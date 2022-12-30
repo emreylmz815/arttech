@@ -8,7 +8,6 @@ import HomeBrands from './HomeBrands/HomeBrands';
 import Footer from '../../components/shared/Footer';
 import PageHelmet from '../../components/shared/PageHelmet';
 
-
 const Home = () => {
     return (
         <>

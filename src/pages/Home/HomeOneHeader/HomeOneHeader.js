@@ -35,12 +35,9 @@ const HomeOneHeader = () => {
                                  <nav id="mobile-menu">
                                     <ul>
                                        <li><NavLink to="/home">Anasayfa </NavLink></li>
-                       
                                        <li><NavLink to="/about">Hakkımızda </NavLink></li>
                                        <li><NavLink to="/services">Çözümlerimiz </NavLink></li>
                                        <li><NavLink to="/portfolio">Referanslarımız </NavLink></li>
-                                       {/* <li><NavLink to="/blogs">Blog </NavLink></li> */}
-                                       
                                        <li><NavLink to="/contact">İletişim</NavLink></li>
                                     </ul>
                                  </nav>

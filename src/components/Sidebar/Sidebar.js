@@ -1,9 +1,7 @@
 import React from 'react';
 import { Offcanvas } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-import Collapsible from 'react-collapsible';
-import { BiMap } from 'react-icons/bi';
-import { FaEnvelope, FaPhoneAlt, FaSearch } from 'react-icons/fa';
+
 
 const Sidebar = ({ show, handleClose }) => {
 
@@ -15,7 +13,7 @@ const Sidebar = ({ show, handleClose }) => {
                <Offcanvas.Header closeButton>
                   <div className="logo">
                      <a href="index.html">
-                        <img src="assets/img/logo/logo.png" alt="logo" />
+                        <img style={{marginLeft: "-15px",}}src="assets/img/logo/logo-dark.png" alt="logo" />
                      </a>
                   </div>
                </Offcanvas.Header>
@@ -44,7 +42,7 @@ const Sidebar = ({ show, handleClose }) => {
                                        <NavLink to="/home">Anasayfa </NavLink>
                                    </div>
                                    <div className='about iconAdd'>
-                                       <NavLink to="/about">About Us </NavLink>
+                                       <NavLink to="/about">Hakkımızda </NavLink>
                                    </div>
                                    <div className='about iconAdd'>
                                     <NavLink to="/services">Çözümlerimiz </NavLink>
@@ -52,11 +50,8 @@ const Sidebar = ({ show, handleClose }) => {
                                     <div className='about iconAdd'>
                                        <NavLink to="/portfolio">Projelerimiz </NavLink>
                                     </div>
-                                    <div className='about iconAdd'>
-                                       <NavLink to="/blogs">Blog </NavLink>
-                                    </div>
-                                       
-                                       <div className='about iconAdd'><NavLink to="/contact">İletişim</NavLink></div>
+                                    
+                                    <div className='about iconAdd'><NavLink to="/contact">İletişim</NavLink></div>
                                     
 
                                     

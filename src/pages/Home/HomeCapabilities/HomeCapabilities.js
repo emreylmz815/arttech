@@ -4,7 +4,7 @@ const HomeCapabilities = () => {
    return (
       <>
          <section className="capabilities__area p-relative black-bg-2 pt-180 pb-155 fix">
-            <div className="capabilities__thumb p-absolute" style={{ background:`url(assets/img/capabilities/smart.jpg)`
+            <div className="capabilities__thumb p-absolute" style={{ background:`url(assets/img/capabilities/smart.jpeg)`
                , backgroundPosition: 'center', backgroundSize:'cover'}}></div>
             <div className="capabilities__shape p-absolute wow fadeInLeft" >
                <img src="assets/img/capabilities/capabilities-shape.png" alt="shape"/>
@@ -32,9 +32,7 @@ const HomeCapabilities = () => {
                   </div>
                </div>
             </div>
-            <div className="capabilities__shape2 p-absolute wow fadeInLeft" >
-               <img  src="assets/img/capabilities/capabilities-shape.png" alt="shape"/>
-            </div>
+            
          </section>
       </>
    );

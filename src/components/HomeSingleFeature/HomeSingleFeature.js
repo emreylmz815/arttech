@@ -1,6 +1,5 @@
 import React from 'react';
-import { CgArrowLongRight } from 'react-icons/cg';
-import { Link } from 'react-router-dom';
+
 
 const HomeSingleFeature = ({icon,title}) => {
    return (
@@ -15,10 +14,8 @@ const HomeSingleFeature = ({icon,title}) => {
                   </div>
                   <h3> {title} </h3>
                   <div className="features__btn">
-                     <Link to="/servicesDetails" className="link-btn">
-                        <i > <CgArrowLongRight /> </i>
-                        <i > <CgArrowLongRight /> </i>
-                     </Link>
+                     
+                    
                   </div>
                </div>
             </div>

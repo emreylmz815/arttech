@@ -1,7 +1,7 @@
 import React from 'react';
-import { FaEnvelope, FaFacebookF, FaPhoneAlt, FaTwitter, FaVimeoV } from 'react-icons/fa';
+import { FaEnvelope, FaFacebookF, FaInstagram, FaLinkedin, FaPhoneAlt,} from 'react-icons/fa';
 import { BiMap } from 'react-icons/bi';
-import { Link } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 
 const Footer = () => {
    return (
@@ -19,11 +19,11 @@ const Footer = () => {
                               <div className="footer__widget-content">
                                  <div className="footer__links">
                                     <ul>
-                                       <li><a href="#">Anasayfa</a></li>
-                                       <li><a href="#">Hakkımızda</a></li>
-                                       <li><a href="#">Çözümlerimiz</a></li>
-                                       <li><a href="#">Referanslarımız</a></li>
-                                       <li><a href="#">İletişim</a></li>
+                                       <li><NavLink to="/home">Anasayfa </NavLink></li>
+                                       <li><NavLink to="/about">Hakkımızda </NavLink></li>
+                                       <li><NavLink to="/services">Çözümlerimiz </NavLink></li>
+                                       <li><NavLink to="/portfolio">Referanslarımız </NavLink></li>
+                                       <li><NavLink to="/contact">İletişim</NavLink></li>
                                     </ul>
                                  </div>
                               </div>
@@ -37,12 +37,11 @@ const Footer = () => {
                               <div className="footer__widget-content">
                                  <div className="footer__links">
                                     <ul>
-                                       <li><a href="#"> Araç Altı Görüntüleme Sistemleri</a></li>
-                                       <li><a href="#"> Kamera Güvenlik Sistemleri</a></li>
-                                       <li><a href="#"> Ses ve Işık Sistemleri</a></li>
-                                       <li><a href="#"> Hemşire Çağrı Sistemleri</a></li>
-                                       <li><a href="#"> Alarm İzleme Merkezi</a></li>
-                                       <li><a href="#"> Tüm Çözümlerimiz</a></li>
+                                    <li><NavLink to="/services">Profesyonel Kamera Güvenlik Sistemleri </NavLink></li>
+                                    <li><NavLink to="/services">Akıllı Ev Sistemleri </NavLink></li>
+                                    <li><NavLink to="/services">Hırsız ve Yangın Alarm Sistemleri </NavLink></li>
+                                    <li><NavLink to="/services">Kontrollü Geçiş Sistemleri </NavLink></li>
+                                    <li><NavLink to="/services">Otomasyon Sistemleri </NavLink></li>
                                     </ul>
                                  </div>
                               </div>
@@ -56,9 +55,9 @@ const Footer = () => {
                               <div className="footer__widget-content">
                                  <div className="footer__links">
                                     <ul>
-                                       <li><a href="#">İnstagram</a></li>
-                                       <li><a href="#">Facebook</a></li>
-                                       <li><a href="#">Linkedn</a></li>
+                                       <li><a target="_blank" href="https://www.instagram.com/arttechguvenlik/">İnstagram</a></li>
+                                       <li><a target="_blank" href="https://www.facebook.com/arttechguvenlikhizmetlerias">Facebook</a></li>
+                                       <li><a target="_blank" href="https://www.linkedin.com/company/arettech-g%C3%BCvenlik-hizmetleri-a-%C5%9F/">Linkedin</a></li>
                                        
                                     </ul>
                                  </div>
@@ -117,21 +116,22 @@ const Footer = () => {
                            <div className="footer__social theme-social f-right">
                               <ul>
                                  <li>
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.facebook.com/arttechguvenlikhizmetlerias">
                                        <i ><FaFacebookF/></i>
                                        <i ><FaFacebookF/></i>
                                     </a>
                                  </li>
                                  <li>
-                                    <a href="#">
-                                       <i ><FaTwitter/> </i>
-                                       <i ><FaTwitter/> </i>
+                                    <a target="_blank" href="https://www.instagram.com/arttechguvenlik/">
+                                       <i ><FaInstagram/> </i>
+                                       <i ><FaInstagram/> </i>
+                                      
                                     </a>
                                  </li>
                                  <li>
-                                    <a href="#">
-                                       <i ><FaVimeoV/> </i>
-                                       <i ><FaVimeoV/> </i>
+                                    <a target="_blank" href="https://www.linkedin.com/company/arettech-g%C3%BCvenlik-hizmetleri-a-%C5%9F/">
+                                       <i ><FaLinkedin/> </i>
+                                       <i ><FaLinkedin/> </i>
                                     </a>
                                  </li>
                               </ul>

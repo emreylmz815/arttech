@@ -754,7 +754,7 @@ const portfolioData = [
     },
     {
         id:85,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/asya.jpg',
         title: 'MG Asya Yapı Lotus',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -768,16 +768,16 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:87,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/regnum.jpg',
         title: 'Ogi Yatırım Regnum Kent',
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:88,
@@ -786,7 +786,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:89,
@@ -795,7 +795,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:90,
@@ -804,7 +804,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:91,
@@ -813,7 +813,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:92,
@@ -822,7 +822,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:93,
@@ -831,7 +831,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:94,
@@ -840,7 +840,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },  {
         id:95,
         img:'assets/img/portfolio/kuscuoğlu.jpg',
@@ -848,7 +848,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:95,
@@ -857,7 +857,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:96,
@@ -866,7 +866,7 @@ const portfolioData = [
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
-            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+            "Akıllı Ev"]
     },
     {
         id:97,
@@ -985,24 +985,7 @@ const portfolioData = [
         works:[
             "Akıllı Ev"]
     },
-    {
-        id:110,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
-        title: ' ',
-        subtitle:' ',
-        category: 'Akıllı Ev',
-        works:[
-            "Akıllı Ev"]
-    },
-    {
-        id:111,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
-        title: ' ',
-        subtitle:' ',
-        category: 'Akıllı Ev',
-        works:[
-            "Akıllı Ev"]
-    },
+    
     
 ]
 
