@@ -52,6 +52,8 @@
     }
     &__icon{
         min-height: 45px;
+        width: 45px;
+        align-items: center;
         & img{
             backface-visibility: hidden;
             -webkit-transform: translate3d(0,0,0);

@@ -4,7 +4,7 @@ const HomeTwoFaq = () => {
    return (
       <>
          <section className="faq__area p-relative pt-135 pb-120 grey-bg-12">
-            <div className="faq__thumb" style={{ background: `url(assets/img/faq/faq-1.jpg)`, backgroundPosition: 'center', backgroundSize: 'cover' }}></div>
+            <div className="faq__thumb" style={{ background: `url(assets/img/faq/1.png)`, backgroundPosition: 'center', backgroundSize: 'cover' }}></div>
             <div className="container">
                <div className="row">
                   <div className="col-xl-5 offset-xl-7 col-lg-6 offset-lg-6 col-md-7 offset-md-5">
@@ -28,6 +28,8 @@ const HomeTwoFaq = () => {
                               <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
                                  Faaliyette bulunduğumuz sektörde lider olmak.
+                                
+
                                  </div>
                                  </div>
                            </div>
@@ -42,7 +44,8 @@ const HomeTwoFaq = () => {
                               </div>
                               <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
-                                 Müşterilerimizin güvenlik, elektrik, elektronik ihtiyaçları konusunda beklentilerini anlayarak onlara en doğru ve en uygun çözümler sunmak.                                 </div>
+                                 Hizmet verdiğimiz müşterilerimizin güvenlik ve teknolojik ihtiyaçlarını karşılmak ve sürdürebilir çözümler sunmak. 
+                                 </div>
                               </div>
                            </div>
 
@@ -56,7 +59,7 @@ const HomeTwoFaq = () => {
                               </div>
                               <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
-                                 Müşterilerimizin güvenlik, elektrik, elektronik ihtiyaçları konusunda beklentilerini anlayarak onlara en doğru ve en uygun çözümler sunmak.
+                                 Müşterilerimizin teknolojik ihtiyaçları doğrultusunda beklentilerini analiz ederek, en doğru ve en yenilikçi çözümleri sunmak.
                                  </div>
                               </div>
                            </div>

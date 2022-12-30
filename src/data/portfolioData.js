@@ -32,7 +32,7 @@ const portfolioData = [
     {
         id:4,
         img:'assets/img/portfolio/kuscuoğlu.jpg',
-        title: 'Kuşcuoğlu İnşaat',
+        title: 'Kuşcuoğlu İnşaat Şehr-i Bahçe',
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
@@ -41,7 +41,7 @@ const portfolioData = [
     {
         id:5,
         img:'assets/img/portfolio/sarkon-yatırım-müh.jpg',
-        title: 'Sarkon Yatırım Mühendislik',
+        title: 'Sarkon Yatırım Paşa Konakları',
         subtitle:' ',
         category:'Akıllı Ev',
         works:["Akıllı Ev","Profesyonel Kamera Sistemleri","Hırsız Alarm"]
@@ -73,7 +73,7 @@ const portfolioData = [
     {
         id: 9,
         img: 'assets/img/portfolio/allı-turna.jpg',
-        title: 'Allıturna Yapı',
+        title: 'Allıturna Yapı Golden Village',
         subtitle: ' ',
         category: 'Akıllı Ev',
         works:["Akıllı Ev","Profesyonel Kamera Sistemleri","Hırsız Alarm"]
@@ -82,7 +82,7 @@ const portfolioData = [
     {
         id: 10,
         img: 'assets/img/portfolio/kent-inşaat.jpg',
-        title: 'Kent İnşaat',
+        title: 'Kent İnşaat Villa Kent',
         subtitle: ' ',
         category: 'Akıllı Ev',
         works:["Akıllı Ev","Profesyonel Kamera Sistemleri","Hırsız Alarm"]
@@ -106,7 +106,7 @@ const portfolioData = [
     },
     {
         id: 13,
-        img: 'assets/img/portfolio/port-7.jpg',
+        img: 'assets/img/portfolio/kaynaşlı-kgys.jpg',
         title: 'Gümüşova KGYS',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -134,7 +134,7 @@ const portfolioData = [
     {
         id: 16,
         img: 'assets/img/portfolio/dekostil-mobilya.jpg',
-        title: 'Dekostil Mobilya',
+        title: 'Dekostil Mobilya Dekostill Villaları',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
         works:[
@@ -142,7 +142,7 @@ const portfolioData = [
     },
     {
         id: 17,
-        img: 'assets/img/portfolio/titsan.jpg',
+        img: 'assets/img/portfolio/tisan.jpg',
         title: 'Tisan Mühendislik',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -196,7 +196,7 @@ const portfolioData = [
     },
     {
         id: 23,
-        img: 'assets/img/portfolio/dabateks.jpg',
+        img: 'assets/img/portfolio/debateks.jpg',
         title: 'Debateks Tekstil',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -592,7 +592,7 @@ const portfolioData = [
     },
     {
         id: 67,
-        img: 'assets/img/portfolio/lucky-brosk.jpg',
+        img: 'assets/img/portfolio/lucky-bros.jpg',
         title: 'Lucky Bros',
         subtitle: ' ',
         category: 'Güvenlik Sistemleri',
@@ -679,6 +679,329 @@ const portfolioData = [
         category: 'Güvenlik Sistemleri',
         works:[
             "Hırsız Alarm Sistemleri"]
+    },
+    {
+        id:77,
+        img:'assets/img/portfolio/barıs.jpg',
+        title: 'Pastacı Barış Sitesi',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:78,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Kuşçuoğlu İnşaat   Şehr-i Naz',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:79,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Kuşcuoğlu İnşaat Taçmahal',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:80,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Sivrikaya Yapı Çamlıca Villaları 2. Etap',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:81,
+        img:'assets/img/portfolio/sivrikaya.jpg',
+        title: 'Sivrikaya Yapı Vadi Bahçeşehir',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:82,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'BW İnşaat Preminum',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:83,
+        img:'assets/img/portfolio/coşkıun-yapı-casagarden.jpg',
+        title: 'Coşkun Yapı Case Garden',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:84,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Noah İnşaat Central ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:85,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'MG Asya Yapı Lotus',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:86,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Kuşcuoğlu İnşaat',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:87,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Ogi Yatırım Regnum Kent',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:88,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'İnci İnşaat İnci Villaları',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:89,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Koç İnşaat ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:90,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Özşen İnşaat Şen Villaları',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:91,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Bulvar Sürücü Kursu Güvenç Yılmaz',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:92,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Allıturna Yapı Green Village',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:93,
+        img:'assets/img/portfolio/bozkus.jpg',
+        title: 'Bozkuşlar İnşaat Bozkuş Life 2 - 3',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:94,
+        img:'assets/img/portfolio/bozkus.jpg',
+        title: 'Bozkuşlar İnşaat Bozkuş Life 4',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },  {
+        id:95,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Pak Mimarlık Aksu Villası',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:95,
+        img:'assets/img/portfolio/turgay-cimen.jpg',
+        title: 'Turgay Çimen',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:96,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Eldivan İnşaat Koza Villaları',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev","Profesyonel Kamera Sistemleri","Yangın Algılama Sistemleri","Hırsız Alarm Sistemleri", "Kontrollü Geçiş"]
+    },
+    {
+        id:97,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Bilsoft Ahmet Veli ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:98,
+        img:'assets/img/portfolio/serdar-kumas.jpg',
+        title: 'Serdar Kumaş - Bolu ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:99,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Emre Öztürk ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:100,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Aşoğlu İnşaat Sapanca ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:101,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: ' Vera Hayvancılık - Bolu ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:102,
+        img:'assets/img/portfolio/turgay-demeldas.jpg',
+        title: 'Pak Mimarlık Turgay Temaldaş ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:103,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Peli Parke Muhammet Erzurum ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:104,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Eldivan İnşaat Arzu Kuşcuoğlu',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:105,
+        img:'assets/img/portfolio/cagrı.jpg',
+        title: 'Çağrı Özkan',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:106,
+        img:'assets/img/portfolio/pak-mim-emine.jpg',
+        title: 'Pak Mimarlık Emina Aktürk ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:107,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Engin Karaduman ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:108,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: 'Enver Ayyıldız ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:109,
+        img:'assets/img/portfolio/altuntas.jpg',
+        title: 'Altuntaş İnşaat- Bolu ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:110,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: ' ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
+    },
+    {
+        id:111,
+        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        title: ' ',
+        subtitle:' ',
+        category: 'Akıllı Ev',
+        works:[
+            "Akıllı Ev"]
     },
     
 ]

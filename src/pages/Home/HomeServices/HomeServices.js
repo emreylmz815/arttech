@@ -21,10 +21,9 @@ const HomeServices = () => {
                <div className="row">
                   {homeServicesData.map((t)=>{
 
-               return <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci="kamera sistemleri hakkında bilgi almak için tıklayınız" />
+               return <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci={t.desci} />
                   })}
                
-              
                </div>
             </div>
          </section>

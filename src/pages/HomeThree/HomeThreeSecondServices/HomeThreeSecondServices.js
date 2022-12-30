@@ -11,8 +11,8 @@ const HomeThreeSecondServices = () => {
                <div className="row">
                   <div className="col-xl-6">
                      <div className="section-title section__title-3 mb-70">
-                        <h2>Yaşamlarınızı Güven İçinde Geçirin</h2>
-                        <p>Müşterilerimizin güvenliklerini sağlamayı kendimize asli görev edindik.</p>
+                        <h2>7/24 Güvenlik</h2>
+                        <p>Arttech'in güvenli dünyası ile tanışmak için iletişme geçin.</p>
                      </div>
                   </div>
                </div>
@@ -35,11 +35,7 @@ const HomeThreeSecondServices = () => {
                                  <i ><BsHeart/></i> Kurulum Sonrası Destek
                               </a>
                            </li>
-                           {/* <li className="nav-item mb-30">
-                              <a className="nav-link" id="financial-tab" data-bs-toggle="pill" href="#financial" role="tab" aria-controls="financial" aria-selected="true">
-                                 <i ><BsBag/></i> Financial
-                              </a>
-                           </li> */}
+                          
                         </ul>
                      </div>
                   </div>
@@ -47,17 +43,9 @@ const HomeThreeSecondServices = () => {
                      <div className="services__tab grey-bg-18">
                         <div className="tab-content" id="services-content">
                            <div className="tab-pane fade show active" id="share" role="tabpanel" aria-labelledby="share-tab">
-                              <HomeThreeSecondSingleService title="Huzur Güven Var İse Vardır!" />
+                              <HomeThreeSecondSingleService title=" " />
                            </div>
-                           <div className="tab-pane fade" id="customer" role="tabpanel" aria-labelledby="customer-tab">
-                              <HomeThreeSecondSingleService title="Customer Service" />
-                           </div>
-                           <div className="tab-pane fade" id="social" role="tabpanel" aria-labelledby="social-tab">
-                              <HomeThreeSecondSingleService title="Social Media" />
-                           </div>
-                           <div className="tab-pane fade" id="financial" role="tabpanel" aria-labelledby="financial-tab">
-                              <HomeThreeSecondSingleService title="Financial" />
-                           </div>
+                           
                         </div>
                      </div>
                   </div>

@@ -31,9 +31,9 @@ const About = () => {
                   </div>
                   <div className="col-xl-6 pr-0 col-lg-6">
                      <div className="about__thumb m-img">
-                        <img src="assets/img/about/about-1.jpg" alt=""/>
+                        <img src="assets/img/about/onlinekatalog.png" alt=""/>
                            <div className="about__shape">
-                              <img src="assets/img/about/red-shape.png" alt=""/>
+                              <img src="assets/img/about/camera1.png" alt=""/>
                            </div>
                      </div>
                   </div>

@@ -57,7 +57,7 @@ const HomeBrands = () => {
                         <h2>Ortaklarımız ile güçlüyüz.</h2>
                      </div>
                      <div className="brand__subtitle mb-90 wow fadeInUp" data-wow-delay=".4s">
-                        <p>Sizlerle çok daha iyi hizmet sunabilmek adına çözüm ortaklarımızla beraber gelişiyor ve güçleniyoruz.</p>
+                        <p>Sizlere kaliteli hizmet sunabilmek adına çözüm ortaklarımızla beraber gelişiyor ve güçleniyoruz.</p>
                      </div>
                   </div>
                </div>
