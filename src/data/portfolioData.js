@@ -72,7 +72,7 @@ const portfolioData = [
     },
     {
         id: 9,
-        img: 'assets/img/portfolio/allı-turna.jpg',
+        img: 'assets/img/portfolio/allı-turna-golden-village.jpg',
         title: 'Allıturna Yapı Golden Village',
         subtitle: ' ',
         category: 'Akıllı Ev',
@@ -691,7 +691,7 @@ const portfolioData = [
     },
     {
         id:78,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/şehrinaz.jpg',
         title: 'Kuşçuoğlu İnşaat   Şehr-i Naz',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -700,7 +700,7 @@ const portfolioData = [
     },
     {
         id:79,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/taç-mahal.jpg',
         title: 'Kuşcuoğlu İnşaat Taçmahal',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -727,7 +727,7 @@ const portfolioData = [
     },
     {
         id:82,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/bw-premium.jpg',
         title: 'BW İnşaat Preminum',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -745,7 +745,7 @@ const portfolioData = [
     },
     {
         id:84,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/noah.jpg',
         title: 'Noah İnşaat Central ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -781,7 +781,7 @@ const portfolioData = [
     },
     {
         id:88,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/inci-inşaat.jpg',
         title: 'İnci İnşaat İnci Villaları',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -790,7 +790,7 @@ const portfolioData = [
     },
     {
         id:89,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/çağrı-koç.jpg',
         title: 'Koç İnşaat ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -817,7 +817,7 @@ const portfolioData = [
     },
     {
         id:92,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/allıturna-green-village.jpg',
         title: 'Allıturna Yapı Green Village',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -843,7 +843,7 @@ const portfolioData = [
             "Akıllı Ev"]
     },  {
         id:95,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/semih-pak.jpg',
         title: 'Pak Mimarlık Aksu Villası',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -861,7 +861,7 @@ const portfolioData = [
     },
     {
         id:96,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/eldivan-inşaat.jpg',
         title: 'Eldivan İnşaat Koza Villaları',
         subtitle:' ',
         category: 'Akıllı Ev',
