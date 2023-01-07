@@ -709,7 +709,7 @@ const portfolioData = [
     },
     {
         id:80,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/sivrikaya-etap.jpg',
         title: 'Sivrikaya Yapı Çamlıca Villaları 2. Etap',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -870,7 +870,7 @@ const portfolioData = [
     },
     {
         id:97,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/ahmet-veli.jpg',
         title: 'Bilsoft Ahmet Veli ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -888,7 +888,7 @@ const portfolioData = [
     },
     {
         id:99,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/emre-öztürk.jpg',
         title: 'Emre Öztürk ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -897,7 +897,7 @@ const portfolioData = [
     },
     {
         id:100,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/aşoğlu.jpg',
         title: 'Aşoğlu İnşaat Sapanca ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -924,7 +924,7 @@ const portfolioData = [
     },
     {
         id:103,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/muhammet-erzurum.jpg',
         title: 'Peli Parke Muhammet Erzurum ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -933,7 +933,7 @@ const portfolioData = [
     },
     {
         id:104,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/arzu-kuşcuoğlu.jpg',
         title: 'Eldivan İnşaat Arzu Kuşcuoğlu',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -960,7 +960,7 @@ const portfolioData = [
     },
     {
         id:107,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/engin-karaduman.jpg',
         title: 'Engin Karaduman ',
         subtitle:' ',
         category: 'Akıllı Ev',
@@ -969,7 +969,7 @@ const portfolioData = [
     },
     {
         id:108,
-        img:'assets/img/portfolio/kuscuoğlu.jpg',
+        img:'assets/img/portfolio/enver-ayyıldız.jpg',
         title: 'Enver Ayyıldız ',
         subtitle:' ',
         category: 'Akıllı Ev',
