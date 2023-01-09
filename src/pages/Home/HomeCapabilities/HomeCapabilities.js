@@ -3,7 +3,7 @@ import React from 'react';
 const HomeCapabilities = () => {
    return (
       <>
-         <section className="capabilities__area p-relative black-bg-2 pt-180 pb-155 fix">
+         <section className="capabilities__area p-relative pt-180 pb-155 fix">
             <div className="capabilities__thumb p-absolute" style={{ background:`url(assets/img/capabilities/smart.jpeg)`
                , backgroundPosition: 'center', backgroundSize:'cover'}}></div>
             <div className="capabilities__shape p-absolute wow fadeInLeft" >
@@ -14,8 +14,8 @@ const HomeCapabilities = () => {
                   <div className="col-xl-5 col-lg-6">
                      <div className="capabilities__content wow fadeInUp" data-wow-delay=".4s">
                         <div className="section__title section__title-2 mb-60">
-                           <span className="white-color">Değerlerimiz</span>
-                           <h2 className="white-color">ARTTECH'in Değer ve İlkeri</h2>
+                           <span className="black-color">Değerlerimiz</span>
+                           <h2 className="black-color">ARTTECH'in Değer ve İlkeri</h2>
                         </div>
                         <div className="capabilities__list">
                            <ol>

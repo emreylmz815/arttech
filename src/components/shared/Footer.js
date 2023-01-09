@@ -77,7 +77,7 @@ const Footer = () => {
                                              <i > <BiMap /> </i>
                                           </div>
                                           <div className="text">
-                                             <span>Kalıcı konutlar Bağlantı Yolu Zahit Kevseri Bulvarı No:29, Merkez / DÜZCE</span>
+                                             <span>Bahçeşehir Bağlantı Yolu Zahit Kevseri Bulvarı No:29, Merkez / DÜZCE</span>
                                           </div>
                                        </li>
                                        <li>

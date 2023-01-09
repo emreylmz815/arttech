@@ -15,7 +15,7 @@ const ContactArea = () => {
                               <ul>
                                  <li>
                                     <h4>Adres</h4>
-                                    <p>Kalıcı konutlar Bağlantı Yolu Zahit Kevseri Bulvarı No:29, Merkez / DÜZCE</p>
+                                    <p>Bahçeşehir Bağlantı Yolu Zahit Kevseri Bulvarı No:29, Merkez / DÜZCE</p>
                                  </li>
                                  <li>
                                     <h4>Telefon</h4>

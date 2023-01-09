@@ -13,7 +13,7 @@ const Sidebar = ({ show, handleClose }) => {
                <Offcanvas.Header closeButton>
                   <div className="logo">
                      <a href="index.html">
-                        <img style={{marginLeft: "-15px",}}src="assets/img/logo/logo-dark.png" alt="logo" />
+                        <img style={{marginLeft: "-15px",}}src="assets/img/logo/logo-antrasit.png" alt="logo" />
                      </a>
                   </div>
                </Offcanvas.Header>

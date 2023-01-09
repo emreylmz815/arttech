@@ -527,15 +527,7 @@ const portfolioData = [
         works:[
             "Profesyonel Kamera Sistemleri ","Yangın Alarm Sistemleri","Network Çözümleri"]
     },
-    {
-        id: 60,
-        img: 'assets/img/portfolio/dabateks.jpg',
-        title: 'Debateks',
-        subtitle: ' ',
-        category: 'Güvenlik Sistemleri',
-        works:[
-            "Profesyonel Kamera Sistemleri "]
-    },
+    
     {
         id: 61,
         img: 'assets/img/portfolio/burger-king.jpg',
@@ -952,7 +944,7 @@ const portfolioData = [
     {
         id:106,
         img:'assets/img/portfolio/pak-mim-emine.jpg',
-        title: 'Pak Mimarlık Emina Aktürk ',
+        title: 'Pak Mimarlık Emine Aktürk ',
         subtitle:' ',
         category: 'Akıllı Ev',
         works:[
