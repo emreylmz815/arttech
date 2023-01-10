@@ -13,7 +13,7 @@ const HomeServices = () => {
                <div className="row">
                   <div className="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                      <div className="section__title section__title-3 text-center mb-90 wow fadeInUp" data-wow-delay=".2s">
-                        <span>ARTTECH</span>
+                       
                         <h2>Sizler İçin Sunduğumuz Çözümlerimiz</h2>
                      </div>
                   </div>
