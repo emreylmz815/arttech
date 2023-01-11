@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { AiOutlineReload } from 'react-icons/ai';
 import SinglePortfolio from '../../../components/SinglePortfolio/SinglePortfolio';
 import data from '../../../data/portfolioData';
 
@@ -36,8 +35,8 @@ const PortfolioArea = () => {
                <div className="row">
                   <div className="col-xl-12">
                      <div className="portfolio__menu mb-40">
-                        <span>Filte: </span>
-                        <div className="masonary-menu filter-button-group d-sm-inline-block">
+                        <span style={{fontSize:"23px"}}>Filtre: </span>
+                        <div className="masonary-menu filter-button-group d-sm-inline-block " >
                            {
                               allCategory.map((btn,index) => {
                                  return <button onClick={()=> filterCategory(btn)} className={active === btn ? 'active text-capitalize' : 'text-capitalize'}

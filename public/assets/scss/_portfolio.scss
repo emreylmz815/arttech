@@ -142,8 +142,10 @@
         }
         & button{
             color: $black-soft-4;
+            text-decoration:underline;
             padding: 0 20px;
             background: transparent;
+            font-size:22px;
             @media #{$sm}{
                 padding: 0 10px;
             }
