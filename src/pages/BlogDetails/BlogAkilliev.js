@@ -2,20 +2,19 @@ import React from 'react';
 import CommonPageHeader from '../../components/CommonPageHeader/CommonPageHeader';
 import PageHelmet from '../../components/shared/PageHelmet';
 import HomeOneHeader from '../Home/HomeOneHeader/HomeOneHeader';
-import BlogsArea from './BlogsArea/BlogsArea';
-import Footer from '../../components/shared/Footer';
 
-const Blogs = () => {
+import Footer from '../../components/shared/Footer';
+import AkilliEv from "./BlogDetailsArea/AkilliEv"
+const BlogAkilliev = () => {
    return (
       <>
-         <PageHelmet pageTitle="Blog " />
+         <PageHelmet pageTitle="Akıllı Ev  " />
          <HomeOneHeader/>
-         <CommonPageHeader title="Blog" subtitle="Blog" />
-         <BlogsArea/>
-        
+         <CommonPageHeader title="Akıllı Ev" subtitle="Akıllı Ev" />
+         <AkilliEv/>
          <Footer/>
       </>
    );
 };
 
-export default Blogs;
+export default BlogAkilliev;

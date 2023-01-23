@@ -3,7 +3,7 @@ import { FaFacebookF, FaTwitter, FaVimeoV } from 'react-icons/fa';
 import BlogLeftSideBar from '../../Blogs/BlogsArea/BlogLeftSideBar';
 import { BiReply } from 'react-icons/bi';
 
-const BlogDetailsArea = () => {
+const Network = () => {
    return (
       <>
          <section className="blog__area pt-120 pb-120">
@@ -12,7 +12,7 @@ const BlogDetailsArea = () => {
                   <div className="col-xl-8 col-lg-8">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
-                           <p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it's your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry give us a bell, don't get shirty with me daft codswallop geeza up the duff zonked I tinkety tonk old fruit bog-standard spiffing good time Richard. Are you taking the piss young delinquent wellies absolutely bladdered the BBC Eaton my good sir, cup of tea spiffing bleeder David mufty you mug <span>cor blimey guvnor, burke bog-standard brown</span> bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don't want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I'm telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
+                           <h4>Network Sistemleri</h4>
                         </div>
                         <div className="blog__quote mb-40 p-relative white-bg fix">
                            <div className="blog__quote-line">
@@ -63,4 +63,4 @@ const BlogDetailsArea = () => {
    );
 };
 
-export default BlogDetailsArea;
+export default Network;

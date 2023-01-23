@@ -2,18 +2,19 @@ import React from 'react';
 import CommonPageHeader from '../../components/CommonPageHeader/CommonPageHeader';
 import PageHelmet from '../../components/shared/PageHelmet';
 import HomeOneHeader from '../Home/HomeOneHeader/HomeOneHeader';
-import BlogDetailsArea from './BlogDetailsArea/BlogDetailsArea';
+
 import Footer from '../../components/shared/Footer';
-const BlogDetails = () => {
+import Kamera from "./BlogDetailsArea/Kamera"
+const ProfesyonelKamera = () => {
    return (
       <>
-         <PageHelmet pageTitle="Blog  " />
+         <PageHelmet pageTitle="Profesyonel Kamera Sistemleri  " />
          <HomeOneHeader/>
-         <CommonPageHeader title="Blog Detay" subtitle="Blog Detay" />
-         <BlogDetailsArea/>
+         <CommonPageHeader title="Profesyonel Kamera Sistemleri" subtitle="Profesyonel Kamera Sistemleri" />
+         <Kamera/>
          <Footer/>
       </>
    );
 };
 
-export default BlogDetails;
+export default ProfesyonelKamera;

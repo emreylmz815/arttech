@@ -2,18 +2,19 @@ import React from 'react';
 import CommonPageHeader from '../../components/CommonPageHeader/CommonPageHeader';
 import PageHelmet from '../../components/shared/PageHelmet';
 import HomeOneHeader from '../Home/HomeOneHeader/HomeOneHeader';
-import BlogDetailsArea from './BlogDetailsArea/BlogDetailsArea';
+
 import Footer from '../../components/shared/Footer';
-const BlogDetails = () => {
+import Network from "./BlogDetailsArea/Network"
+const NetworkSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Blog  " />
+         <PageHelmet pageTitle="Network Sistemleri  " />
          <HomeOneHeader/>
-         <CommonPageHeader title="Blog Detay" subtitle="Blog Detay" />
-         <BlogDetailsArea/>
+         <CommonPageHeader title="Network Sistemleri" subtitle="Network Sistemleri" />
+         <Network/>
          <Footer/>
       </>
    );
 };
 
-export default BlogDetails;
+export default NetworkSistemleri;

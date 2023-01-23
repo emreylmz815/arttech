@@ -3,6 +3,12 @@ import ScrollTop from "./components/ScrollTop";
 import About from "./pages/About/About";
 import BlogDetails from "./pages/BlogDetails/BlogDetails";
 import Blogs from "./pages/Blogs/Blogs";
+import BlogAkilliev from "./pages/BlogDetails/BlogAkilliev";
+import ProfesyonelKamera from "./pages/BlogDetails/ProfesyonelKamera";
+import PersonelTakipSistemleri from "./pages/BlogDetails/PersonelTakipSistemleri";
+import AlarmSistemleri from "./pages/BlogDetails/AlarmSistemleri";
+import NetworkSistemleri from "./pages/BlogDetails/NetworkSistemleri";
+import GecisSistemleri from "./pages/BlogDetails/GecisSistemleri";
 import Contact from "./pages/Contact/Contact";
 import HeaderStyleFive from "./pages/HeaderStyleFive/HeaderStyleFive";
 import HeaderStyleFour from "./pages/HeaderStyleFour/HeaderStyleFour";
@@ -43,6 +49,12 @@ function App() {
             <Route path="/blogs" element={<Blogs/>} />
             <Route path="/blogDetails" element={<BlogDetails/>} />
             <Route path="/contact" element={<Contact/>} />
+            <Route path="/BlogAkilliev" element={<BlogAkilliev/>} />
+            <Route path="/ProfesyonelKamera" element={<ProfesyonelKamera/>} />
+            <Route path="/PersonelTakipSistemleri" element={<PersonelTakipSistemleri/>} />
+            <Route path="/AlarmSistemleri" element={<AlarmSistemleri/>} />
+            <Route path="/NetworkSistemleri" element={<NetworkSistemleri/>} />
+            <Route path="/GecisSistemleri" element={<GecisSistemleri/>} />
         </Routes>
       </BrowserRouter>
     </>

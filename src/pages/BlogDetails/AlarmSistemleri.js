@@ -2,20 +2,19 @@ import React from 'react';
 import CommonPageHeader from '../../components/CommonPageHeader/CommonPageHeader';
 import PageHelmet from '../../components/shared/PageHelmet';
 import HomeOneHeader from '../Home/HomeOneHeader/HomeOneHeader';
-import BlogsArea from './BlogsArea/BlogsArea';
-import Footer from '../../components/shared/Footer';
 
-const Blogs = () => {
+import Footer from '../../components/shared/Footer';
+import Alarm from "./BlogDetailsArea/Alarm"
+const AlarmSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Blog " />
+         <PageHelmet pageTitle="Alarm Sistemleri  " />
          <HomeOneHeader/>
-         <CommonPageHeader title="Blog" subtitle="Blog" />
-         <BlogsArea/>
-        
+         <CommonPageHeader title="Alarm Sistemleri" subtitle="Alarm Sistemleri" />
+         <Alarm/>
          <Footer/>
       </>
    );
 };
 
-export default Blogs;
+export default AlarmSistemleri;

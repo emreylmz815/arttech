@@ -6,6 +6,7 @@ import { FaLightbulb, FaRibbon } from 'react-icons/fa';
 import { BsFillHouseFill,BsFillFilePersonFill,BsCameraVideo,BsHddNetworkFill } from 'react-icons/bs';
 import { IoDocumentTextOutline } from 'react-icons/io5';
 import { GiBarrier } from 'react-icons/gi';
+import { Link } from 'react-router-dom';
 
 const HomeFeatures = () => {
    return (
@@ -14,13 +15,14 @@ const HomeFeatures = () => {
             <div className="container">
                <div className="features__inner fix">
                   <div className="row g-0 ">
-
-                     <HomeSingleFeature icon={<BsFillHouseFill />} title="Akıllı Ev Sistemleri" />
-                     <HomeSingleFeature icon={<BsCameraVideo />} title="Profesyonel Kamera Güvenlik Sistemleri" />
-                     <HomeSingleFeature icon={<BsFillFilePersonFill />} title="Personel Takip Sistemleri" />
-                     <HomeSingleFeature icon={<AiFillFire />} title="Yangın Algılama ve Hırsız Alarm Sistemleri" />
-                     <HomeSingleFeature icon={<BiNetworkChart />} title="Network - Yazılım - KVKK Çözümleri " />
-                     <HomeSingleFeature icon={<GiBarrier />} title="Kontrollü Geçiş Sistemleri" />
+                    
+                     
+                     <HomeSingleFeature  icon={<BsFillHouseFill />} to="BlogAkilliev" title="Akıllı Ev Sistemleri" />
+                     <HomeSingleFeature icon={<BsCameraVideo />} to="ProfesyonelKamera" title="Profesyonel Kamera Güvenlik Sistemleri" />
+                     <HomeSingleFeature icon={<BsFillFilePersonFill />} to="PersonelTakipSistemleri" title="Personel Takip Sistemleri" />
+                     <HomeSingleFeature icon={<AiFillFire />} to="AlarmSistemleri" title="Yangın Algılama ve Hırsız Alarm Sistemleri" />
+                     <HomeSingleFeature icon={<BiNetworkChart />} to="NetworkSistemleri" title="Network - Yazılım - KVKK Çözümleri " />
+                     <HomeSingleFeature icon={<GiBarrier />} to="GecisSistemleri" title="Kontrollü Geçiş Sistemleri" />
 
                   </div>
                </div>
