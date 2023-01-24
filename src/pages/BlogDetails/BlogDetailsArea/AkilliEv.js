@@ -37,7 +37,7 @@ const AkilliEv = () => {
                            <p>  Bu şu anlama gelir, hareket dedektörü ve anahtar ile sadece basit bir kontrol olan aydınlatma değil, aynı zamanda alarm sistemi, ısıtma, müzik ve diğer herşey kontrol edilebilir. Böylellikle cihazların etkileşimin gücüne hoş geldin diyebilirsiniz... </p>
                         </div>
                         <div className="blog__details-thumb w-img mb-45">
-                           <img src="assets/img/blog/details/smart.png" alt="" />
+                           <img src="assets/img/blog/details/akıllıev.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">
                            <h3>Arttech İle Akıllı Yaşam</h3>
