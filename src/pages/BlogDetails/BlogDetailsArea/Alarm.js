@@ -12,7 +12,7 @@ const Alarm = () => {
                   <div className="col-xl-8 col-lg-8">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
-                           <h4>Alarm Sistemleri</h4>
+                           <h1>Alarm Sistemleri</h1>
                         </div>
                         <div className="blog__quote mb-40 p-relative white-bg fix">
                            <div className="blog__quote-line">

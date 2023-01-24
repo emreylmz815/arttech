@@ -12,7 +12,7 @@ const AkilliEv = () => {
                   <div className="col-xl-8 col-lg-8">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
-                           <h4>Akıllı Ev</h4>
+                           <h1>Akıllı Ev</h1>
                         </div>
                         <div className="blog__quote mb-40 p-relative white-bg fix">
                            <div className="blog__quote-line">
@@ -26,28 +26,33 @@ const AkilliEv = () => {
                               <img src="assets/img/icon/blog/quote-2.png" alt="" />
                            </div>
                            <blockquote>
-                              <p>Tosser argy-bargy mush loo at public school Elizabeth up the duff buggered chinwag on your bike mate don't get shirty with me super, Jeffrey bobby Richard cheesed off spend a penny a load of old tosh blag horse.</p>
+                              <h4>Akıllı Ev Nedir?</h4>
+                              <p> Bugün ortalama bir evde uzaktan kumanda , hareket dedektörleri veya kendi anahtarları ile kontrol edilen aydınlatma, ısıtma , güvenlik ve diğer tüketici elektroniği de dahil pek çok cihaz bulacaksınız. </p>
+                              <p> Ev sahibinin ihtiyaçlarını karşılamak için bunların birbiri ile iletişime geçmemesi bir problemdir. Özellik olarak akıllı, ama kullanışlı değil. </p>
                            </blockquote>
-                           <h4>Shahnewaz Sakil</h4>
+                           
                         </div>
                         <div className="blog__text mb-40">
-                           <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
+                           <p> inohom akıllı ev sistemi, diğerleri ile karşılaştırıldığında, bütün bilgilerin toplandığı tek bir merkezden yönetilen bir sistemdir.</p>
+                           <p>  Bu şu anlama gelir, hareket dedektörü ve anahtar ile sadece basit bir kontrol olan aydınlatma değil, aynı zamanda alarm sistemi, ısıtma, müzik ve diğer herşey kontrol edilebilir. Böylellikle cihazların etkileşimin gücüne hoş geldin diyebilirsiniz... </p>
                         </div>
                         <div className="blog__details-thumb w-img mb-45">
-                           <img src="assets/img/blog/details/b-d-1.jpg" alt="" />
+                           <img src="assets/img/blog/details/smart.png" alt="" />
                         </div>
                         <div className="blog__text mb-40">
-                           <h3>Zibber is the only theme you will ever need</h3>
-                           <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don't want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I'm telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
+                           <h3>Arttech İle Akıllı Yaşam</h3>
+                           <p>İster evden, ister uzaktan sadece bir kaç dokunuşla evin davranışını ve yaşam şeklini değiştirebilirsiniz.
 
-                           <p> <span>Cheeky bugger cracking goal starkers lemon squeezy</span> lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
+Sezgisel arayüzü sayesinde kolay kullanım sağlar. inohom ile akıllı ev kavramı kullanışlı ve basit bir sistem haline gelir.</p>
+
+                           <p>  Değişen koşullar ve senin evine kurulacak olan yeni teknolojilerle tam uyumludur. Modüler mimarisi ile inohom akıllı ev sistemi esnektir ve geleceğe uygundur. Bu sayede her zaman konfor, güven ve enerji tasarufunu garanti eder. </p>
                         </div>
                         <div className="blog__tag mb-30">
-                           <span>Tag : </span>
-                           <a href="#">Blog</a>
-                           <a href="#">Creative</a>
-                           <a href="#">Portfolio</a>
-                           <a href="#">Theme</a>
+                           <span>Anahtar Kelimeler : </span>
+                           <a >Akıllı Ev</a>
+                           <a >Smart Home</a>
+                           <a >Akıllı Yaşam</a>
+                           <a >Teknoloji</a>
                         </div>
                       
                        

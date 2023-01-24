@@ -12,7 +12,7 @@ const AkilliEv = () => {
                   <div className="col-xl-8 col-lg-8">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
-                          <h4>KAMERA SİSTEMLERİ</h4>
+                          <h1>Profesyonel Kamera Sistemleri</h1>
                         </div>
                         <div className="blog__quote mb-40 p-relative white-bg fix">
                            <div className="blog__quote-line">
@@ -26,28 +26,29 @@ const AkilliEv = () => {
                               <img src="assets/img/icon/blog/quote-2.png" alt="" />
                            </div>
                            <blockquote>
-                              <p>Tosser argy-bargy mush loo at public school Elizabeth up the duff buggered chinwag on your bike mate don't get shirty with me super, Jeffrey bobby Richard cheesed off spend a penny a load of old tosh blag horse.</p>
+                              <h4>CCTV Kamera Nedir?</h4>
+                              <p>CCTV açılımı, “Kapalı Devre Televizyon” anlamına gelen “Close Circuit TeleVision” kavramından türetilmiştir. CCTV sistemi, kamera ve monitörün yanı sıra lens, switch ve kayıt cihazı (DVR,NVR vb.) gibi parçalar da bulunabilir. Kameraya harici olarak eklenebilecek bir mikrofon veya kameraların üzerinde bulunan dahili mikrofonlar aracılığıyla ses kaydı da mümkün olabilmektedir.</p>
                            </blockquote>
-                           <h4>Shahnewaz Sakil</h4>
+                           
                         </div>
                         <div className="blog__text mb-40">
-                           <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
+                           <p>CCTV sistemlerinin esası; belirli bir bölgede yayın yapan kamera görüntülerinin sınırlı sayıda izleme ekranına ulaştırılmasıdır.
+Ev veya işyeri güvenliği için gerekli kapalı devre kamera çözümünün tespiti için öncelikle, mahalde bir keşifte bulunmakta ve istenilen güvenlik kriterleri oluşturulmaktadır. Ortaya çıkan sonuç raporuna göre güvenlik sistemi teknolojilerine karar verilmekte, sistem montajı yerinde yapılmakta, sistemin etkin kullanımı için eğitim verilmekte ve yaygın servis ağımız ile de hızlı arıza destek ve bakım hizmeti verilmektedir.
+</p>
                         </div>
                         <div className="blog__details-thumb w-img mb-45">
-                           <img src="assets/img/blog/details/b-d-1.jpg" alt="" />
+                           <img src="assets/img/blog/details/kamera.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">
-                           <h3>Zibber is the only theme you will ever need</h3>
-                           <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don't want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I'm telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
+                           <p> ARTTECH olarak yıllardır bu sektörde kaliteli ve iyi bir hizmet sunarak her zaman müşterilerimizin satın almış oldukları ürünlerden memnun kalmaları için çalışmalar yaparak daha iyi bir hizmet sunmayı hedefledik. Profesyonel güvenlik kamera sistemleri konusunda sektördeki firmalar arasında her zaman bir adım daha önde olan firmamızı tercih ederek sizde kaliteli bir hizmetten faydalanabilirsiniz. Müşteri memnuniyetini profesyonel olarak her zaman  ön planda tutarak satış gerçekleştiren firmamıza dilediğiniz zaman aklınıza takılan tüm soruları iletişim bölümlerimizden bizlere ulaşarak kısa bir süre içerisinde çözüme kavuşturabilirsiniz.</p>
 
-                           <p> <span>Cheeky bugger cracking goal starkers lemon squeezy</span> lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
                         </div>
                         <div className="blog__tag mb-30">
-                           <span>Tag : </span>
-                           <a href="#">Blog</a>
-                           <a href="#">Creative</a>
-                           <a href="#">Portfolio</a>
-                           <a href="#">Theme</a>
+                           <span>Anahtar Kelimeler : </span>
+                           <a href="#">Profesyonel Kamera Sistemleri</a>
+                           <a href="#">CCTV</a>
+                           <a href="#">Termal – Lazer Kameralar</a>
+                           <a href="#">Teknoloji</a>
                         </div>
                       
                        
