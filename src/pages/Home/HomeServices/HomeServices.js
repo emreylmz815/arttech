@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import SingleService from '../../../components/SingleService/SingleService';
 import homeServicesData from '../../../data/homeServicesData';
 // import homeServicesData from '../../../data/homeServicesData';
@@ -18,10 +19,18 @@ const HomeServices = () => {
                      </div>
                   </div>
                </div>
-               <div className="row">
+               <div className="row" >
                   {homeServicesData.map((t)=>{
 
-               return <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci={t.desci} />
+               return (
+                  <>
+                  <Link style={{width: "25%"}} key={t.id} to={t.to} >
+                  <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci={t.desci} >
+               </SingleService>
+                  </Link>
+               </>
+                   )
+               
                   })}
                
                </div>

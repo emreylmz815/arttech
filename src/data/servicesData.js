@@ -4,6 +4,7 @@ const servicesData=[
         img:1,
         baslık:1,
         text:1,
+        
     },
     {
         id:2,
