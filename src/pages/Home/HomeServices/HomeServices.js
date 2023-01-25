@@ -24,13 +24,12 @@ const HomeServices = () => {
 
                return (
                   <>
-                  <Link style={{width: "25%"}} key={t.id} to={t.to} >
-                  <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci={t.desci} >
+                  
+                  <SingleService key={t.id} id={t.id} icon={t.icon} title={t.title} desci={t.desci} to={t.to}>
                </SingleService>
-                  </Link>
+                  
                </>
                    )
-               
                   })}
                
                </div>

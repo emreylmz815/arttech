@@ -7,7 +7,7 @@ const AkilliEv = () => {
          <section className="blog__area pt-120 pb-120">
             <div className="container">
                <div className="row">
-                  <div className="col-xl-8 col-lg-8">
+                  <div className="col-xl-12 col-lg-12">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
                            <h1>Akıllı Ev</h1>
@@ -39,9 +39,7 @@ const AkilliEv = () => {
                         </div>
                         <div className="blog__text mb-40">
                            <h3>Arttech İle Akıllı Yaşam</h3>
-                           <p>İster evden, ister uzaktan sadece bir kaç dokunuşla evin davranışını ve yaşam şeklini değiştirebilirsiniz.
-
-Sezgisel arayüzü sayesinde kolay kullanım sağlar. inohom ile akıllı ev kavramı kullanışlı ve basit bir sistem haline gelir.</p>
+                           <p>İster evden, ister uzaktan sadece bir kaç dokunuşla evin davranışını ve yaşam şeklini değiştirebilirsiniz. Sezgisel arayüzü sayesinde kolay kullanım sağlar. inohom ile akıllı ev kavramı kullanışlı ve basit bir sistem haline gelir.</p>
 
                            <p>  Değişen koşullar ve senin evine kurulacak olan yeni teknolojilerle tam uyumludur. Modüler mimarisi ile inohom akıllı ev sistemi esnektir ve geleceğe uygundur. Bu sayede her zaman konfor, güven ve enerji tasarufunu garanti eder. </p>
                         </div>
@@ -93,9 +91,6 @@ Sezgisel arayüzü sayesinde kolay kullanım sağlar. inohom ile akıllı ev kav
                            <a >Akıllı Yaşam</a>
                            <a >Teknoloji</a>
                         </div>
-                      
-                       
-                      
                      </div>
                   </div>
 

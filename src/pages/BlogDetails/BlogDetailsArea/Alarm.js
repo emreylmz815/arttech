@@ -9,7 +9,7 @@ const Alarm = () => {
          <section className="blog__area pt-120 pb-120">
             <div className="container">
                <div className="row">
-                  <div className="col-xl-8 col-lg-8">
+                  <div className="col-xl-12 col-lg-12">
                      <div className="blog__details-wrapper mr-50">
                         <div className="blog__text mb-45">
                            <h1>Alarm Sistemleri</h1>
@@ -53,7 +53,6 @@ const Alarm = () => {
                               <li>Yangın alarm paneli ve yangın alarm tekrarlama paneli</li>
                               <li>Grafik izleme yazılımı</li>
                            </ul>
-                           <p> <span>Cheeky bugger cracking goal starkers lemon squeezy</span> lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
                         </div>
                         <div className="blog__text mb-40">
                            <h4>Yangın Alarm Sistemleri Zorunlu Mudur?</h4>

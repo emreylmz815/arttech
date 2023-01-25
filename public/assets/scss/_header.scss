@@ -503,9 +503,9 @@
                     text-transform: uppercase;
                     @include border-radius(0);
                     border-bottom: 2px solid transparent;
-                    &.active{
-                        background: #1b133f;
-                    }
+                    // &.active{
+                    //     background: #1b133f;
+                    // }
                     &:hover{
                         background: $white;
                         color: $black;

@@ -10,7 +10,7 @@ const Gecis = () => {
       <section className="blog__area pt-120 pb-120">
          <div className="container">
             <div className="row">
-               <div className="col-xl-8 col-lg-8">
+               <div className="col-xl-12 col-lg-12">
                   <div className="blog__details-wrapper mr-50">
                      <div className="blog__text mb-45">
                      <h1>Kontrollü Geçiş Sİstemleri</h1>
