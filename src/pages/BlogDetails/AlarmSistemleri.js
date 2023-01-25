@@ -8,7 +8,7 @@ import Alarm from "./BlogDetailsArea/Alarm"
 const AlarmSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Alarm Sistemleri  " />
+         <PageHelmet pageTitle="Alarm Sistemleri  " keyword={"Düzce Alarm Sistemleri, Yangın Algıma sistemleri, Hırsız Alarm Sistemleri, Düzce Yangın Alarm, Düzce Hırsız Alarm, Bolu Yangın Alarm, Bolu Hırsız Alarm,Zonguldak Yangın Alarm, Zonguldak Hırsız Alarm,  "} />
          <HomeOneHeader/>
          <CommonPageHeader title="Alarm Sistemleri" subtitle="Alarm Sistemleri" />
          <Alarm/>

@@ -8,7 +8,7 @@ import Gecis from "./BlogDetailsArea/Gecis"
 const GecisSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Kontrollü Geçiş Sistemleri  " />
+         <PageHelmet pageTitle="Kontrollü Geçiş Sistemleri  " keyword={"Personel Takip Sistemleri, Düzce Personel Takip Sistemleri, Parmak izi okuma sistemleri, Bolu Personel Takip Sistemleri, Zonguldak Personel Takip Sistemleri"}  />
          <HomeOneHeader/>
          <CommonPageHeader title="Kontrollü Geçiş Sistemleri" subtitle="Kontrollü Geçiş Sistemleri" />
          <Gecis/>

@@ -8,7 +8,7 @@ import PersonelTakip from "./BlogDetailsArea/PersonelTakip"
 const PersonelTakipSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Personel Takip Sistemleri  " />
+         <PageHelmet pageTitle="Personel Takip Sistemleri  " keyword={"Personel Takip Sistemleri, Düzce Personel Takip Sistemleri, Parmak izi okuma sistemleri, Bolu Personel Takip Sistemleri, Zonguldak Personel Takip Sistemleri"} />
          <HomeOneHeader/>
          <CommonPageHeader title="Personel Takip Sistemleri" subtitle="Personel Takip Sistemleri" />
          <PersonelTakip/>

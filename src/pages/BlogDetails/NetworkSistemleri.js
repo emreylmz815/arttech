@@ -8,7 +8,7 @@ import Network from "./BlogDetailsArea/Network"
 const NetworkSistemleri = () => {
    return (
       <>
-         <PageHelmet pageTitle="Network Sistemleri  " />
+         <PageHelmet pageTitle="Network Sistemleri " keyword={"Network Sistemleri, Düzce Network Sistemleri, KVKK, Düzce KVKK, Bolu KVKK, Zonguldak KVKK, Düzce Yazılım Çözümleri, Bolu Yazılım Çözümleri, Zonguldak Yazılım Çözümleri"} />
          <HomeOneHeader/>
          <CommonPageHeader title="Network Sistemleri" subtitle="Network Sistemleri" />
          <Network/>

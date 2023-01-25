@@ -8,7 +8,7 @@ import Kamera from "./BlogDetailsArea/Kamera"
 const ProfesyonelKamera = () => {
    return (
       <>
-         <PageHelmet pageTitle="Profesyonel Kamera Sistemleri  " />
+         <PageHelmet pageTitle="Profesyonel Kamera Sistemleri  " keyword={"personel takip sistemleri, Düzce Kamera, Bolu Kamera Sistemleri, Sakarya Kamera Sistemleri, Zonguldak Kamera Sistemleri "} />
          <HomeOneHeader/>
          <CommonPageHeader title="Profesyonel Kamera Sistemleri" subtitle="Profesyonel Kamera Sistemleri" />
          <Kamera/>

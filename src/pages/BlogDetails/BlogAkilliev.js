@@ -8,7 +8,7 @@ import AkilliEv from "./BlogDetailsArea/AkilliEv"
 const BlogAkilliev = () => {
    return (
       <>
-         <PageHelmet pageTitle="Akıllı Ev  " />
+         <PageHelmet pageTitle="Akıllı Ev " keyword={"Akıllı Ev Sistemleri, Düzce Akıllı Ev, Bolu Akıllı Ev, Zonguldak Akıllı Ev, Smart Home" } />
          <HomeOneHeader/>
          <CommonPageHeader title="Akıllı Ev" subtitle="Akıllı Ev" />
          <AkilliEv/>
