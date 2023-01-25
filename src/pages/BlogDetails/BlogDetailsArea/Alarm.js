@@ -26,28 +26,52 @@ const Alarm = () => {
                               <img src="assets/img/icon/blog/quote-2.png" alt="" />
                            </div>
                            <blockquote>
-                              <p>Tosser argy-bargy mush loo at public school Elizabeth up the duff buggered chinwag on your bike mate don't get shirty with me super, Jeffrey bobby Richard cheesed off spend a penny a load of old tosh blag horse.</p>
+                              <h4>Yangın Alarm Sistemi Nedir?</h4>
+                              <p>Yangın alarm sistemi bina ve tesislerde oluşan yangınları tespit ederek yanan alanı ilgili birimlere haber vermek ve gerekli tahliye senaryolarını kontrol etmek için kurulan sistemdir. Erken algılama ile can ve mal güvenliği konusunda en önemli güvenlik sistemlerinin başında gelir. Erken yangın algılama, yangın yerini tespit ederek yangının büyümesini engellemek için kritik öneme sahiptir. Yangına daha başındayken müdahale etmek yangının başka alanlara sıçramasını engellediğinden çok mühimdir. Böylelikle yangını kontrol altına almak çok daha kolaylıkla yapılır. </p>
                            </blockquote>
-                           <h4>Shahnewaz Sakil</h4>
+                           
                         </div>
                         <div className="blog__text mb-40">
-                           <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
+                           <h4>Yangın Algılama Sistemi Nasıl Çalışır?</h4>
+                           <p>Yangın algılama sistemi ortamdaki duman, sıcaklık, alev ve gazı algılayarak eğer bir alarm durumu gerekiyorsa sesli ve ışıklı alarm cihazlarını aktive ederek kullanıcıları uyarır. Bu algılama işlemi, özel yangın alarm dedektörü veya yangın alarm sensörü tarafından yapılır. Yangın alarm dedektörleri standartlarla belirlenmiş kriter ile sahaya monte edilirler. Dedektörler bir kablo vasıtasıyla yangın alarm kontrol paneline bağlanır. Yangın alarm kontrol paneli, yangın alarm sistemlerinin beynidir. Yangın alarm paneli bir alarm durumunda yangın alarm cihazlarını aktive eder ve aynı zamanda kontrol ekipmanları ile de önceden belirlenmiş yangın alarm senaryolarını aktive ederek tahliyeyi başlatır.</p>
                         </div>
                         <div className="blog__details-thumb w-img mb-45">
-                           <img src="assets/img/blog/details/b-d-1.jpg" alt="" />
+                           <img src="assets/img/blog/details/alarm.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">
-                           <h3>Zibber is the only theme you will ever need</h3>
-                           <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don't want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I'm telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
-
+                           <h4>Yangın Alarm Sistemi Cihazları</h4>
+                           <p>Yangın alarm sistemi belirli ekipmanların birleşmesinden oluşur. Bu ekipmanlar entegre şekilde çalışansak bina ve tesislerde algıla ve kontrol yaparlar. </p>
+                           <ul>
+                              <li>Yangın alarm dedektörü veya yangın alarm sensörü</li>
+                              <li>Duman dedektörü</li>
+                              <li>Sıcaklık dedekörü</li>
+                              <li>Kombine dedektör</li>
+                              <li>Gaz dedektörü</li>
+                              <li>Yangın alarm butonu</li>
+                              <li>Yangın alarm sireni ve yangın alarm flaşörü</li>
+                              <li>Yangın alarm kontrol modülü</li>
+                              <li>Yangın alarm paneli ve yangın alarm tekrarlama paneli</li>
+                              <li>Grafik izleme yazılımı</li>
+                           </ul>
                            <p> <span>Cheeky bugger cracking goal starkers lemon squeezy</span> lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
                         </div>
+                        <div className="blog__text mb-40">
+                           <h4>Yangın Alarm Sistemleri Zorunlu Mudur?</h4>
+                           <p>TSE EN54 yangın yönetmeliğine göre aşağıda belirtilen özellikteki binalar için yangın alarm sistemi zorunludur.</p>
+                           <ul>
+                              <li>Tehlike sınıfı yüksek olan bütün binalarda</li>
+                              <li>Tehlike sınıfı orta olan ve toplam kullanım alanı 1000 m²’ yi geçen binalarda</li>
+                              <li>İkamet amaçlı binalar dışındaki tüm yüksek binalarda</li>
+                              <li>Yapı yüksekliği 51.5 m’ den fazla olan apartman binalarında</li>
+                              <li>Oteller, Yurtlar, Hastaneler, Huzur Evleri, Pansiyonlar ve bütün yatılan yerlerde…</li>
+                           </ul>
+                        </div>
                         <div className="blog__tag mb-30">
-                           <span>Tag : </span>
-                           <a href="#">Blog</a>
-                           <a href="#">Creative</a>
-                           <a href="#">Portfolio</a>
-                           <a href="#">Theme</a>
+                           <span>Anahtar Kelimeler : </span>
+                           <a >Yangın Algılama</a>
+                           <a >Yangın Algılama</a>
+                           <a >Hırsız Alarm</a>
+                           <a >Teknoloji</a>
                         </div>
                       
                        

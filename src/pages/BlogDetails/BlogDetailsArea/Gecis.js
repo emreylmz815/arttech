@@ -5,61 +5,58 @@ import { BiReply } from 'react-icons/bi';
 
 const Gecis = () => {
    return (
+    
       <>
-         <section className="blog__area pt-120 pb-120">
-            <div className="container">
-               <div className="row">
-                  <div className="col-xl-8 col-lg-8">
-                     <div className="blog__details-wrapper mr-50">
-                        <div className="blog__text mb-45">
-                           <h4>Kontrollü Geçiş Sİstemleri</h4>
+      <section className="blog__area pt-120 pb-120">
+         <div className="container">
+            <div className="row">
+               <div className="col-xl-8 col-lg-8">
+                  <div className="blog__details-wrapper mr-50">
+                     <div className="blog__text mb-45">
+                     <h1>Kontrollü Geçiş Sİstemleri</h1>
+                     </div>
+                     <div className="blog__quote mb-40 p-relative white-bg fix">
+                        <div className="blog__quote-line">
+                           <img className="line-1" src="assets/img/icon/blog/line-1.png" alt="" />
+                           <img className="line-2" src="assets/img/icon/blog/line-2.png" alt="" />
                         </div>
-                        <div className="blog__quote mb-40 p-relative white-bg fix">
-                           <div className="blog__quote-line">
-                              <img className="line-1" src="assets/img/icon/blog/line-1.png" alt="" />
-                              <img className="line-2" src="assets/img/icon/blog/line-2.png" alt="" />
-                           </div>
-                           <div className="quote mb-10">
-                              <img src="assets/img/icon/blog/quote-1.png" alt="" />
-                           </div>
-                           <div className="quote-2 p-absolute">
-                              <img src="assets/img/icon/blog/quote-2.png" alt="" />
-                           </div>
-                           <blockquote>
-                              <p>Tosser argy-bargy mush loo at public school Elizabeth up the duff buggered chinwag on your bike mate don't get shirty with me super, Jeffrey bobby Richard cheesed off spend a penny a load of old tosh blag horse.</p>
-                           </blockquote>
-                           <h4>Shahnewaz Sakil</h4>
+                        <div className="quote mb-10">
+                           <img src="assets/img/icon/blog/quote-1.png" alt="" />
                         </div>
-                        <div className="blog__text mb-40">
-                           <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
+                        <div className="quote-2 p-absolute">
+                           <img src="assets/img/icon/blog/quote-2.png" alt="" />
                         </div>
-                        <div className="blog__details-thumb w-img mb-45">
-                           <img src="assets/img/blog/details/b-d-1.jpg" alt="" />
-                        </div>
-                        <div className="blog__text mb-40">
-                           <h3>Zibber is the only theme you will ever need</h3>
-                           <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don't want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I'm telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
+                        <blockquote>
+                           <h4>Geçiş Kontrol Sistemleri Ne İşe Yarar?</h4>
+                           <p>Geçiş kontrol sistemleri ile; personel devam kontrolü, ziyaretçi ve araç giriş çıkışlarını, belirli alanlara giriş çıkış izinleri gibi durumları kontrol etmemiz mümkündür. Geçiş kontrol sistemlerinin kullanım amacı kişilerin belirli yerlere girişini kontrol altına almak ve bu giriş çıkışlarla ilgili verileri raporlamaktır. İstenildiği takdirde kişiler için süre kısıtlaması ve kapı bazında geçiş tanımı yapılabilir.</p>
+                        </blockquote>
+                     </div>
+                     <div className="blog__text mb-40">
+                        <p>için süre kısıtlaması ve kapı bazında geçiş tanımı yapılabilir.
+Genelde geçiş kontrol noktası; turnikeler, kapılar, asansörler, otoparklar ya da girişin sınırlandırıldığı(sistem odası vb.) yerlerdir. Bunların dışında; dolap ve çekmece gibi özel alanlara da uygulanabilmektedir. Geçiş kontrol sistemleri, kartla ya da şifre ile erişim gibi kolay bir yapıya sahip olabileceği gibi, daha gelişmiş algoritmalara sahip biyometrik geçiş yapılarında da olabilirler.</p>
+                     </div>
+                     <div className="blog__details-thumb w-img mb-45">
+                        <img src="assets/img/blog/details/personel.jpg" alt="" />
+                     </div>
+                     <div className="blog__text mb-40">
+                        <p>Geçiş kontrol sistemleri ile firmalarda personel devam takibi de yapılabilmektedir. Personellerin hangi günlerde, hangi saatlerde geldiğini ve gittiğini takip ederek; maaş kesintisi ya da mesai ücreti hesaplanmasında da kullanılmaktadır.</p>
 
-                           <p> <span>Cheeky bugger cracking goal starkers lemon squeezy</span> lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don't get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
-                        </div>
-                        <div className="blog__tag mb-30">
-                           <span>Tag : </span>
-                           <a href="#">Blog</a>
-                           <a href="#">Creative</a>
-                           <a href="#">Portfolio</a>
-                           <a href="#">Theme</a>
-                        </div>
-                      
-                       
-                      
+                        <p> Geçiş kontrol sistemlerinde en önemli unsurlar; geçiş kolaylığı, hız, raporlama ve problemsiz çalışan bir sistemdir. Geçiş kontrol sistem tercihi ihtiyaca göre belirlenmelidir. Şirketin fiziksel yapısı, giriş çıkış yapacak olan insan ve araç sayısı göz önünde bulundurulmalıdır.
+Geçiş kontrol sistemleri yazılım aracılığıyla; CCTV, yangın algılama ve ihbar sistemleri gibi sistemlerle de entegre çalışabilmektedir.</p>
+                     </div>
+                     <div className="blog__tag mb-30">
+                        <span>Anahtar Kelimeler : </span>
+                        <a >Kontrollü Geçiş Sistemleri</a>
+                        <a >Personel Takip Sistemleri</a>
+                        <a >Parmak İzi okuma</a>
+                        <a >Teknoloji</a>
                      </div>
                   </div>
-
-                 
                </div>
             </div>
-         </section>
-      </>
+         </div>
+      </section>
+   </>
    );
 };
 
