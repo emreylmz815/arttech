@@ -34,7 +34,7 @@ const AkilliEv = () => {
                            <p>için süre kısıtlaması ve kapı bazında geçiş tanımı yapılabilir.
 Genelde geçiş kontrol noktası; turnikeler, kapılar, asansörler, otoparklar ya da girişin sınırlandırıldığı(sistem odası vb.) yerlerdir. Bunların dışında; dolap ve çekmece gibi özel alanlara da uygulanabilmektedir. Geçiş kontrol sistemleri, kartla ya da şifre ile erişim gibi kolay bir yapıya sahip olabileceği gibi, daha gelişmiş algoritmalara sahip biyometrik geçiş yapılarında da olabilirler.</p>
                         </div>
-                        <div className="blog__details-thumb w-img mb-45">
+                        <div className="blog__details-thumb foto mb-45">
                            <img src="assets/img/blog/details/personel.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">

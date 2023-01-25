@@ -66,13 +66,13 @@
         position: absolute;
         top: 0;
         left: 0;
-        width: 100%;
+        width: 70%;
         height: 100%;
         @include background();
         @include transition(.3s);
         opacity: 0;
         &::after{
-            position: absolute;
+            position: relative;
             content: '';
             top: 0;
             left: 0;
@@ -86,9 +86,12 @@
         }
         &-2{
             & img{
+                width: 10%;
+                height: 10px !important;
                 @include border-radius(10px 10px 0 0);
             }
         }
+      
     }
     &__content{
         position: relative;
@@ -710,4 +713,8 @@
     font-size: 20px;
     color: #1f1841;
     line-height: 30px;
+}
+.foto img{
+    width: 70%;
+    // height: 50%;
 }

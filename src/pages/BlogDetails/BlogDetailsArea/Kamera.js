@@ -36,7 +36,7 @@ const AkilliEv = () => {
 Ev veya işyeri güvenliği için gerekli kapalı devre kamera çözümünün tespiti için öncelikle, mahalde bir keşifte bulunmakta ve istenilen güvenlik kriterleri oluşturulmaktadır. Ortaya çıkan sonuç raporuna göre güvenlik sistemi teknolojilerine karar verilmekte, sistem montajı yerinde yapılmakta, sistemin etkin kullanımı için eğitim verilmekte ve yaygın servis ağımız ile de hızlı arıza destek ve bakım hizmeti verilmektedir.
 </p>
                         </div>
-                        <div className="blog__details-thumb w-img mb-45">
+                        <div className="blog__details-thumb foto mb-45">
                            <img src="assets/img/blog/details/kamera.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">

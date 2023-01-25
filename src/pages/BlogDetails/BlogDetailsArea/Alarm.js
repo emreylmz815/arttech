@@ -35,7 +35,7 @@ const Alarm = () => {
                            <h4>Yangın Algılama Sistemi Nasıl Çalışır?</h4>
                            <p>Yangın algılama sistemi ortamdaki duman, sıcaklık, alev ve gazı algılayarak eğer bir alarm durumu gerekiyorsa sesli ve ışıklı alarm cihazlarını aktive ederek kullanıcıları uyarır. Bu algılama işlemi, özel yangın alarm dedektörü veya yangın alarm sensörü tarafından yapılır. Yangın alarm dedektörleri standartlarla belirlenmiş kriter ile sahaya monte edilirler. Dedektörler bir kablo vasıtasıyla yangın alarm kontrol paneline bağlanır. Yangın alarm kontrol paneli, yangın alarm sistemlerinin beynidir. Yangın alarm paneli bir alarm durumunda yangın alarm cihazlarını aktive eder ve aynı zamanda kontrol ekipmanları ile de önceden belirlenmiş yangın alarm senaryolarını aktive ederek tahliyeyi başlatır.</p>
                         </div>
-                        <div className="blog__details-thumb w-img mb-45">
+                        <div className="blog__details-thumb foto mb-45">
                            <img src="assets/img/blog/details/alarm.jpg" alt="" />
                         </div>
                         <div className="blog__text mb-40">

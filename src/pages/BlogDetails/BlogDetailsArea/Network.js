@@ -55,7 +55,7 @@ const Network = () => {
                     <li>Ağ Yönetimi (NMS)</li>
                   </ul>
                 </div>
-                <div className="blog__details-thumb w-img mb-45">
+                <div className="blog__details-thumb foto mb-45">
                   <img src="assets/img/blog/details/kvkk.jpg" alt="" />
                 </div>
                 <div className="blog__text mb-40">
